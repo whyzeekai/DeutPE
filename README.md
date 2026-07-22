@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:ff0000,25:ff00ff,50:8b0000,75:00ffff,100:ff0033&height=170&section=header&text=DeutPE&fontSize=90&fontColor=ffffff&animation=blinking&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,50:8b0000,100:ff0033&height=170&section=header&text=DeutPE&fontSize=90&fontColor=ffffff&fontAlignY=55" width="100%"/>
 
-<img src="https://media1.tenor.com/m/tkHvqkeSq-oAAAAC/ken-kaneki-tokyo-ghoul.gif" width="100%"/>
+<img src="https://media1.tenor.com/m/tcuVIIjzsesAAAAC/myfanboyss.gif" width="100%"/>
 
 <br><br>
 
@@ -15,7 +15,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff0000,20:ff00ff,40:0000ff,60:00ffff,80:00ff00,100:ff0000&height=4&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:ff0033,100:000000&height=3&width=100%" width="100%"/>
 
 <h2 align="center">О СБОРКЕ</h2>
 
@@ -33,7 +33,7 @@
 + но если покопаться — тут МНОГО интересного
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff0000,20:ff00ff,40:0000ff,60:00ffff,80:00ff00,100:ff0000&height=4&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:ff0033,100:000000&height=3&width=100%" width="100%"/>
 
 <h2 align="center">ЧТО ВНУТРИ</h2>
 
@@ -49,7 +49,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff0000,20:ff00ff,40:0000ff,60:00ffff,80:00ff00,100:ff0000&height=4&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:ff0033,100:000000&height=3&width=100%" width="100%"/>
 
 <h2 align="center">СОВМЕСТИМОСТЬ</h2>
 
@@ -59,7 +59,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff0000,20:ff00ff,40:0000ff,60:00ffff,80:00ff00,100:ff0000&height=4&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:ff0033,100:000000&height=3&width=100%" width="100%"/>
 
 <h2 align="center">КОНТАКТЫ</h2>
 
@@ -69,6 +69,6 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:ff0033,25:00ffff,50:8b0000,75:ff00ff,100:000000&height=150&section=footer&text=%D0%B7%D0%B0%D0%BB%D0%B5%D1%82%D0%B5%D0%BB%D0%BE%20%3F%20%D0%BA%D0%B8%D0%BD%D1%8C%20%E2%98%85&fontSize=34&fontColor=ffffff&animation=blinking&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:ff0033,50:8b0000,100:000000&height=150&section=footer&text=%D0%B7%D0%B0%D0%BB%D0%B5%D1%82%D0%B5%D0%BB%D0%BE%20%3F%20%D0%BA%D0%B8%D0%BD%D1%8C%20%E2%98%85&fontSize=34&fontColor=ffffff&fontAlignY=65" width="100%"/>
 
 </div>
