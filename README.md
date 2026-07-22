@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,50:8b0000,100:ff0033&height=120&section=header&text=DeutPE&fontSize=60&fontColor=ffffff&fontAlignY=55&width=500" width="500"/>
 
-<img src="https://media1.tenor.com/m/tcuVIIjzsesAAAAC/myfanboyss.gif" width="500"/>
+<img src="https://media1.tenor.com/m/p-ax1N2g4IoAAAAd/%D0%BB%D0%BD%D1%80.gif" width="500"/>
 
 <br><br>
 
