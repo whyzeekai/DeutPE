@@ -6,8 +6,6 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=2500&pause=600&color=FF0033&background=00000000&center=true&vCenter=true&width=500&lines=%D1%84%D1%83%D0%BB%D0%BB-%D1%81%D0%B1%D0%BE%D1%80%D0%BA%D0%B0%20%D0%BD%D0%B0%20%D1%81%D0%BB%D0%B8%D1%82%D1%8B%D1%85%20%D0%BF%D0%BB%D0%B0%D0%B3%D0%B8%D0%BD%D0%B0%D1%85;%D1%81%D0%BB%D0%B8%D0%B2%20%D0%B8%D0%B4%D1%91%D1%82%20%D0%BA%D0%B0%D0%BA%20%D0%BF%D0%BE%D1%80%D1%82%D1%84%D0%BE%D0%BB%D0%B8%D0%BE;%D0%B2%20%D1%81%D0%B1%D0%BE%D1%80%D0%BA%D0%B5%20%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%D0%BD%D0%BE%D0%B3%D0%BE" alt="Typing SVG"/>
-
 <br>
 
 ![Platform](https://img.shields.io/badge/BEDROCK%20%2F%20PE-000000?style=for-the-badge&logo=minecraft&logoColor=ff0033)
