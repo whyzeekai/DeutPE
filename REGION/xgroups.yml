@@ -1,0 +1,35 @@
+---
+User:
+  max_regions_num: 1
+  max_region_count_blocks: 5000
+Kronos:
+  max_regions_num: 3
+  max_region_count_blocks: 15000
+Aristocrat:
+  max_regions_num: 3
+  max_region_count_blocks: 35000
+Lucefer:
+  max_regions_num: 6
+  max_region_count_blocks: 80000
+korol:
+  max_regions_num: 8
+  max_region_count_blocks: 100000
+Gresh:
+  max_regions_num: 10
+  max_region_count_blocks: 150000
+Knayz:
+  max_regions_num: 15
+  max_region_count_blocks: 200000
+Patrik:
+  max_regions_num: 20
+  max_region_count_blocks: 300000
+Yt:
+  max_regions_num: 5
+  max_region_count_blocks: 200000
+Moderator:
+  max_regions_num: 5
+  max_region_count_blocks: 100000
+Helper:
+  max_regions_num: 5
+  max_region_count_blocks: 100000
+...

@@ -1,0 +1,14 @@
+name: Auction
+main: timurkaundefined\auction\Auction
+api: 3.0.0
+version: "777"
+author: vk.com/timurkaundefined
+
+commands:
+  auc:
+    description: "Аукцион вещей"
+    permission: auc.command
+
+permissions:
+  auc.command:
+    default: true

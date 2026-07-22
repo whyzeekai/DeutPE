@@ -1,0 +1,16 @@
+---
+arena: test
+server: nexvill-md3a
+lobby:
+  x: 270
+  "y": 66
+  z: 260
+pos1:
+  x: 278
+  "y": 66
+  z: 260
+pos2:
+  x: 259
+  "y": 66
+  z: 260
+...

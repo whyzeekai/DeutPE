@@ -1,0 +1,31 @@
+# Команда для активации промо-кода
+activate:
+  
+  # Сама команда
+  command: promo
+  
+  # Пермишен для использования
+  permission: promocodes.activate
+  
+  # Описание команды
+  description: "Активация промо-кода"
+
+
+# Команда для создания промо-кода
+create:
+  command: cpromo
+  permission: promocodes.create
+  description: "Создание промо-кода"
+
+# Команда для удаления промо-кода
+delete:
+  command: dpromo
+  permission: promocodes.delete
+  description: "Удаление промо-кода"
+
+list:
+  command: lpromo
+  permission: promocodes.list
+  description: "Список промокодов"
+
+# Не забудьте изменить права на использование пермишенов в plugin.yml

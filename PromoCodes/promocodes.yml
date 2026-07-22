@@ -1,0 +1,77 @@
+---
+_deadshot_:
+  limit: 1
+  date: "2024-08-19 16:59:09"
+  commands:
+  - gamemode 1 @player
+free_50k:
+  limit: 10
+  date: "2024-08-21 10:56:31"
+  commands:
+  - gamemode 1 @player
+free_300k:
+  limit: 5
+  date: "2024-08-21 11:00:38"
+  commands:
+  - gamemode 1 @player
+free_donate:
+  limit: 1
+  date: "2024-08-22 10:43:30"
+  commands:
+  - gamemode 1 @player
+test:
+  limit: 2
+  date: "2025-03-28 13:16:32"
+  commands:
+  - setgroup $player Patrik 7
+testt:
+  limit: 1
+  date: "2025-03-31 12:48:19"
+  commands:
+  - gamemode 1 @player
+freemoney50k:
+  limit: 5
+  date: "2025-03-31 13:14:20"
+  commands:
+  - adminka givemoney @player 50000
+freeprefixcase1:
+  limit: 5
+  date: "2025-03-31 13:23:43"
+  commands:
+  - adminka givecase @player 1
+blotstream2025:
+  limit: 2
+  date: "2025-03-31 16:47:57"
+  commands:
+  - adminka giverub @player 100
+freedonatekorol:
+  limit: 1
+  date: "2025-03-31 16:56:23"
+  commands:
+  - adminka setgroup @player Korol 7
+meetwixbonus2025:
+  limit: 5
+  date: "2025-03-31 16:57:13"
+  commands:
+  - adminka givemoney @player 100000
+blotmcpefree:
+  limit: 2
+  date: "2025-03-31 16:57:26"
+  commands:
+  - adminka setgroup @player Kronos 7
+vector:
+  limit: 1
+  date: "2025-04-20 10:58:14"
+  commands:
+  - gamemode 1 @player
+gooiri33:
+  limit: 1
+  date: "2025-07-27 23:52:19"
+  commands:
+  - adminka setgroup @player Rabbit 7
+rabbit13:
+  limit: 1
+  date: "2025-07-28 18:41:37"
+  commands:
+  - setgroup @player Князь 7
+...

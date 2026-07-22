@@ -1,0 +1,4 @@
+name: bar
+main: BossBar\Main
+version: 1.0.0
+api: 3.0.0

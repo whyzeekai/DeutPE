@@ -1,0 +1,16 @@
+---
+arena: duels
+server: mini-d1
+lobby:
+  x: 0
+  "y": 0
+  z: 0
+pos1:
+  x: 0
+  "y": 0
+  z: 0
+pos2:
+  x: 0
+  "y": 0
+  z: 0
+...

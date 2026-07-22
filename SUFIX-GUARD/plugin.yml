@@ -1,0 +1,9 @@
+name: REGION
+main: WorldGuardian\WorldGuardian
+version: 777
+author: krasavchik
+api: 3.0.0
+
+commands:
+ rg:
+  default: true

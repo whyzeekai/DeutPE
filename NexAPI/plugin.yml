@@ -1,0 +1,122 @@
+name: NexAPI
+main: api\Loader
+api: 3.0.0
+version: 1.0.0
+author: fant1z0v
+
+commands:
+  setgroup:
+    defauelt: start
+  pos:
+    defauelt: pos
+  spawn:
+    defauelt: spawn
+  mine:
+    defauelt: mine
+  killer:
+    defauelt: killer
+  restart:
+    defauelt: rest
+  world:
+    defauelt: wp
+  rep:
+    defauelt: rep
+  pay:
+    defauelt: pay 
+  gm:
+    defauelt: gm
+  lang:
+    defauelt: ;ang
+  arena:
+    defauelt: arena
+  givecase:
+    defauelt: c
+  givepass:
+    defauelt: pass
+  prefix:
+    defauelt: prefix
+  helper:
+    defauelt: helper
+  report:
+    defauelt: reports
+  chunk:
+    defauelt: a
+  server:
+    defauelt: a
+  size:
+    defauelt: a
+  tpa:
+    defauelt: arena
+  tp:
+    defauelt: api
+  day:
+    defauelt: api
+  night:
+    defauelt: api
+  fly:
+    defauelt: api
+  clear: 
+    defauelt: api
+  food:
+    defauelt: api
+  heal:
+    defauelt: api
+  feed:
+    defauelt: api
+  stats:
+    defauelt: api
+  kits:
+    defauelt: kit
+  rtp:
+    defauelt: rtp
+  invsee:
+    defauelt: test
+  home:
+    defauelt: test
+  sethome:
+    defauelt: htse
+  delhome:
+    defauelt: tdefw
+  warp:
+    defauelt: dada
+  setwarp:
+    defauelt: dada
+  delwarp:
+    defauelt: adad
+  autototem:
+    defauelt: totem
+  black:
+    defauelt: adad
+  proverka:
+    defauelt: test
+  s:
+    defauelt: s
+  giverub:
+    defauelt: s
+  tpban:
+    defauelt: adad
+  console:
+    defauelt: aadad
+  cp:
+    defauelt: adad
+  say:
+    defauelt: say
+  repairall:
+    defauelt: repair
+  device:
+    defauelt: deevice
+  vanish:
+    defauelt: dad
+  back:
+    defauelt: dad
+  adminka:
+    defauelt: 123
+  givesub:
+    defauelt: dadad
+  sub:
+    defauelt: sub
+  patrik:
+    defauelt: patg
+  grant:
+    defauelt: adsd
+    

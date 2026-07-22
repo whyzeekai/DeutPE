@@ -1,0 +1,7 @@
+name: GmInventory
+main: Tynaev\GmInventory\Main
+version: MZ
+api: 3.0.0
+author: Tynaev
+description: Сохранение инвентаря при смене GM
+website: vk.com/tynaev_qq

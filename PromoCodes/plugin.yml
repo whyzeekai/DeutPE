@@ -1,0 +1,17 @@
+name: PromoCodes
+version: 1
+api: 3.0.0
+main: PromoCodes\Loader
+description: "Система промо-кодов для вашего сервера"
+author: "Tynaev"
+website: "taplink.cc/tynaev"
+
+permissions:
+  promocodes.activate:
+    default: true
+  promocodes.create:
+    default: op
+  promocodes.delete:
+    default: op
+  promocodes.list:
+    default: op

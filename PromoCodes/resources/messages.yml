@@ -1,0 +1,64 @@
+successful:
+  title: "§aУспешно!"
+  subtitle: "§aПромо-код успешно активирован"
+  popup: ""
+  tip: ""
+  message: "§7[§aPROMO§7] §fВы успешно активировали промо-код!"
+
+limit:
+  title: ""
+  subtitle: "§cПромо-код не активирован"
+  popup: ""
+  tip: ""
+  message: "§7[§aPROMO§7] §fЛимит промо-кода привышен!"
+
+not_exists:
+  title: ""
+  subtitle: "§cПромо-код не активирован"
+  popup: ""
+  tip: ""
+  message: "§7[§aPROMO§7] §fПромо-кода не существует!"
+
+expired:
+  title: ""
+  subtitle: "§cПромо-код не активирован"
+  popup: ""
+  tip: ""
+  message: "§7[§aPROMO§7] §fПромо-код уже не актуален!"
+
+used:
+  title: ""
+  subtitle: "§cПромокод не активирован"
+  popup: ""
+  tip: ""
+  message: "§7[§aPROMO§7] §fВы уже активировали этот промо-код!"
+
+usage:
+  title: ""
+  subtitle: ""
+  popup: ""
+  tip: ""
+  message: "§7[§aPROMO§7] §fИспользование: /promo <промо-код>"
+
+console_not_allowed: "Консоль не годен для активации промо-кодов"
+
+create_successful: "§7[§aPROMO§7] §fПромо-код успешно создан! Измените команды и срок годности данного промо-кода в файле promocodes.yml предварительно выключив сервер"
+
+delete_successful: "§7[§aPROMO§7] §fПромо-код успешно удален!"
+
+create_usage: "§7[§aPROMO§7] §fИспользование: /cpromo <промо-код> <лимит на использования>"
+
+delete_usage: "§7[§aPROMO§7] §fИспользование: /dpromo <промо-код>"
+
+delete_not_exists: "§7[§aPROMO§7] §fДанного промо-кода не существует"
+
+create_promocode_wrong: "§7[§aPROMO§7] §fПромо-код может содержать только буквы, цифры и подчеркивания!"
+
+create_limit_wrong: "§7[§aPROMO§7] §fЛимит промокода должа быть в цифрах!"
+
+create_promocode_exists: "§7[§aPROMO§7] §fДанный промо-код уже существует"
+
+list_title: "§7[§aPROMO§7] §fСписок промо-кодов:"
+
+# Вместо @status будет "Просрочен" или "Актуален"
+list_text_line: "@promocode - @status | @activates/@limit"

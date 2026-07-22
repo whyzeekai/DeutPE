@@ -1,0 +1,21 @@
+name: Ruletka
+main: timurkaundefined\casino\Casino
+api: 3.0.0
+version: "777"
+author: []
+
+commands:
+  ruletka:
+    permission: ruletka.command
+    description: 'Телепортироваться к рулетке со ставками'
+    default: true
+  bet:
+    permission: bet.command
+    description: 'Сделать ставку'
+    default: true
+
+permissions:
+  ruletka.command:
+    default: true
+  bet.comamnd:
+    default: true

@@ -1,0 +1,4232 @@
+---
+gooiri33:
+  quest_1:
+    item_name: Пустой пузырёк
+    counts: 0
+    max_counts: 899
+    id: 374
+    status: false
+    in_progress: false
+  quest_2:
+    item_name: Снежок
+    counts: 0
+    max_counts: 1996
+    id: 332
+    status: false
+    in_progress: false
+  quest_3:
+    item_name: Железо
+    counts: 0
+    max_counts: 626
+    id: 265
+    status: false
+    in_progress: false
+  quest_4:
+    item_name: Уголь
+    counts: 0
+    max_counts: 1205
+    id: 263
+    status: false
+    in_progress: false
+  quest_5:
+    item_name: Дуб
+    counts: 0
+    max_counts: 1738
+    id: 17
+    status: false
+    in_progress: false
+  quest_6:
+    item_name: Ломтик арбуза
+    counts: 0
+    max_counts: 1236
+    id: 360
+    status: false
+    in_progress: false
+  quest_7:
+    item_name: Семена пшеницы
+    counts: 0
+    max_counts: 1715
+    id: 295
+    status: false
+    in_progress: false
+  quest_8:
+    item_name: Блок Снега
+    counts: 0
+    max_counts: 581
+    id: 80
+    status: false
+    in_progress: false
+  quest_9:
+    item_name: Доски дуба
+    counts: 0
+    max_counts: 1460
+    id: 5
+    status: false
+    in_progress: false
+  quest_10:
+    item_name: Золотое яблоко
+    counts: 0
+    max_counts: 1602
+    id: 322
+    status: false
+    in_progress: false
+  quest_11:
+    item_name: Пшеница
+    counts: 0
+    max_counts: 1486
+    id: 296
+    status: false
+    in_progress: false
+  quest_12:
+    item_name: Алмазы
+    counts: 0
+    max_counts: 1824
+    id: 264
+    status: false
+    in_progress: false
+  quest_13:
+    item_name: Нитки
+    counts: 0
+    max_counts: 649
+    id: 287
+    status: false
+    in_progress: false
+  quest_14:
+    item_name: Хлеб
+    counts: 0
+    max_counts: 1951
+    id: 297
+    status: false
+    in_progress: false
+  quest_15:
+    item_name: Снопы сена
+    counts: 0
+    max_counts: 1961
+    id: 170
+    status: false
+    in_progress: false
+  quest_16:
+    item_name: Булыжник
+    counts: 0
+    max_counts: 761
+    id: 4
+    status: false
+    in_progress: false
+  quest_17:
+    item_name: Тыквы
+    counts: 0
+    max_counts: 750
+    id: 86
+    status: false
+    in_progress: false
+  quest_18:
+    item_name: Морковь
+    counts: 0
+    max_counts: 1232
+    id: 391
+    status: false
+    in_progress: false
+  quest_19:
+    item_name: Эндер Перлы
+    counts: 0
+    max_counts: 1861
+    id: 368
+    status: false
+    in_progress: false
+  quest_20:
+    item_name: Палки
+    counts: 0
+    max_counts: 1394
+    id: 280
+    status: false
+    in_progress: false
+topka_pvp:
+  quest_1:
+    item_name: Палки
+    counts: 0
+    max_counts: 722
+    id: 280
+    status: false
+    in_progress: true
+  quest_2:
+    item_name: Снопы сена
+    counts: 0
+    max_counts: 1576
+    id: 170
+    status: false
+    in_progress: false
+  quest_3:
+    item_name: Блок Снега
+    counts: 0
+    max_counts: 1743
+    id: 80
+    status: false
+    in_progress: false
+  quest_4:
+    item_name: Кварц
+    counts: 0
+    max_counts: 1149
+    id: 406
+    status: false
+    in_progress: false
+  quest_5:
+    item_name: Алмазы
+    counts: 0
+    max_counts: 1958
+    id: 264
+    status: false
+    in_progress: false
+  quest_6:
+    item_name: Ломтик арбуза
+    counts: 0
+    max_counts: 1131
+    id: 360
+    status: false
+    in_progress: false
+  quest_7:
+    item_name: Морковь
+    counts: 0
+    max_counts: 1912
+    id: 391
+    status: false
+    in_progress: false
+  quest_8:
+    item_name: Доски дуба
+    counts: 0
+    max_counts: 1591
+    id: 5
+    status: false
+    in_progress: false
+  quest_9:
+    item_name: Снежок
+    counts: 0
+    max_counts: 1205
+    id: 332
+    status: false
+    in_progress: false
+  quest_10:
+    item_name: Уголь
+    counts: 0
+    max_counts: 856
+    id: 263
+    status: false
+    in_progress: false
+  quest_11:
+    item_name: Тыквы
+    counts: 0
+    max_counts: 1021
+    id: 86
+    status: false
+    in_progress: false
+  quest_12:
+    item_name: Булыжник
+    counts: 0
+    max_counts: 532
+    id: 4
+    status: false
+    in_progress: false
+  quest_13:
+    item_name: Нитки
+    counts: 0
+    max_counts: 594
+    id: 287
+    status: false
+    in_progress: false
+  quest_14:
+    item_name: Золотое яблоко
+    counts: 0
+    max_counts: 1598
+    id: 322
+    status: false
+    in_progress: false
+  quest_15:
+    item_name: Семена пшеницы
+    counts: 0
+    max_counts: 1758
+    id: 295
+    status: false
+    in_progress: false
+  quest_16:
+    item_name: Железо
+    counts: 0
+    max_counts: 594
+    id: 265
+    status: false
+    in_progress: false
+  quest_17:
+    item_name: Дуб
+    counts: 0
+    max_counts: 1685
+    id: 17
+    status: false
+    in_progress: false
+  quest_18:
+    item_name: Пшеница
+    counts: 0
+    max_counts: 1615
+    id: 296
+    status: false
+    in_progress: false
+  quest_19:
+    item_name: Пустой пузырёк
+    counts: 0
+    max_counts: 1579
+    id: 374
+    status: false
+    in_progress: false
+  quest_20:
+    item_name: Хлеб
+    counts: 0
+    max_counts: 1998
+    id: 297
+    status: false
+    in_progress: false
+adilet2022892927:
+  quest_1:
+    item_name: Нитки
+    counts: 0
+    max_counts: 1103
+    id: 287
+    status: false
+    in_progress: false
+  quest_2:
+    item_name: Булыжник
+    counts: 0
+    max_counts: 996
+    id: 4
+    status: false
+    in_progress: false
+  quest_3:
+    item_name: Пшеница
+    counts: 0
+    max_counts: 916
+    id: 296
+    status: false
+    in_progress: false
+  quest_4:
+    item_name: Эндер Перлы
+    counts: 0
+    max_counts: 1203
+    id: 368
+    status: false
+    in_progress: false
+  quest_5:
+    item_name: Хлеб
+    counts: 0
+    max_counts: 1606
+    id: 297
+    status: false
+    in_progress: false
+  quest_6:
+    item_name: Снежок
+    counts: 0
+    max_counts: 1023
+    id: 332
+    status: false
+    in_progress: false
+  quest_7:
+    item_name: Пустой пузырёк
+    counts: 0
+    max_counts: 1962
+    id: 374
+    status: false
+    in_progress: false
+  quest_8:
+    item_name: Железо
+    counts: 0
+    max_counts: 962
+    id: 265
+    status: false
+    in_progress: false
+  quest_9:
+    item_name: Дуб
+    counts: 0
+    max_counts: 918
+    id: 17
+    status: false
+    in_progress: false
+  quest_10:
+    item_name: Блок Снега
+    counts: 0
+    max_counts: 1837
+    id: 80
+    status: false
+    in_progress: false
+  quest_11:
+    item_name: Морковь
+    counts: 0
+    max_counts: 1653
+    id: 391
+    status: false
+    in_progress: false
+  quest_12:
+    item_name: Снопы сена
+    counts: 0
+    max_counts: 1102
+    id: 170
+    status: false
+    in_progress: false
+  quest_13:
+    item_name: Уголь
+    counts: 0
+    max_counts: 1336
+    id: 263
+    status: false
+    in_progress: false
+  quest_14:
+    item_name: Кварц
+    counts: 0
+    max_counts: 1051
+    id: 406
+    status: false
+    in_progress: false
+  quest_15:
+    item_name: Алмазы
+    counts: 0
+    max_counts: 1889
+    id: 264
+    status: false
+    in_progress: false
+  quest_16:
+    item_name: Семена пшеницы
+    counts: 0
+    max_counts: 1376
+    id: 295
+    status: false
+    in_progress: false
+  quest_17:
+    item_name: Палки
+    counts: 0
+    max_counts: 1235
+    id: 280
+    status: false
+    in_progress: false
+  quest_18:
+    item_name: Золотое яблоко
+    counts: 0
+    max_counts: 866
+    id: 322
+    status: false
+    in_progress: false
+  quest_19:
+    item_name: Тыквы
+    counts: 0
+    max_counts: 1243
+    id: 86
+    status: false
+    in_progress: false
+  quest_20:
+    item_name: Доски дуба
+    counts: 0
+    max_counts: 768
+    id: 5
+    status: false
+    in_progress: false
+mrfedikyt:
+  quest_1:
+    item_name: Морковь
+    counts: 0
+    max_counts: 724
+    id: 391
+    status: false
+    in_progress: false
+  quest_2:
+    item_name: Пустой пузырёк
+    counts: 0
+    max_counts: 795
+    id: 374
+    status: false
+    in_progress: false
+  quest_3:
+    item_name: Уголь
+    counts: 0
+    max_counts: 1684
+    id: 263
+    status: false
+    in_progress: false
+  quest_4:
+    item_name: Семена пшеницы
+    counts: 0
+    max_counts: 1299
+    id: 295
+    status: false
+    in_progress: false
+  quest_5:
+    item_name: Доски дуба
+    counts: 0
+    max_counts: 1125
+    id: 5
+    status: false
+    in_progress: false
+  quest_6:
+    item_name: Железо
+    counts: 0
+    max_counts: 632
+    id: 265
+    status: false
+    in_progress: false
+  quest_7:
+    item_name: Золотое яблоко
+    counts: 0
+    max_counts: 1734
+    id: 322
+    status: false
+    in_progress: false
+  quest_8:
+    item_name: Палки
+    counts: 0
+    max_counts: 587
+    id: 280
+    status: false
+    in_progress: false
+  quest_9:
+    item_name: Алмазы
+    counts: 0
+    max_counts: 1003
+    id: 264
+    status: false
+    in_progress: false
+  quest_10:
+    item_name: Снежок
+    counts: 0
+    max_counts: 1684
+    id: 332
+    status: false
+    in_progress: false
+  quest_11:
+    item_name: Тыквы
+    counts: 0
+    max_counts: 1544
+    id: 86
+    status: false
+    in_progress: false
+  quest_12:
+    item_name: Ломтик арбуза
+    counts: 0
+    max_counts: 1064
+    id: 360
+    status: false
+    in_progress: false
+  quest_13:
+    item_name: Дуб
+    counts: 0
+    max_counts: 1684
+    id: 17
+    status: false
+    in_progress: false
+  quest_14:
+    item_name: Кварц
+    counts: 0
+    max_counts: 939
+    id: 406
+    status: false
+    in_progress: false
+  quest_15:
+    item_name: Булыжник
+    counts: 0
+    max_counts: 519
+    id: 4
+    status: false
+    in_progress: false
+  quest_16:
+    item_name: Нитки
+    counts: 0
+    max_counts: 528
+    id: 287
+    status: false
+    in_progress: false
+  quest_17:
+    item_name: Эндер Перлы
+    counts: 0
+    max_counts: 1789
+    id: 368
+    status: false
+    in_progress: false
+  quest_18:
+    item_name: Снопы сена
+    counts: 0
+    max_counts: 1074
+    id: 170
+    status: false
+    in_progress: false
+  quest_19:
+    item_name: Блок Снега
+    counts: 0
+    max_counts: 1823
+    id: 80
+    status: false
+    in_progress: false
+  quest_20:
+    item_name: Хлеб
+    counts: 0
+    max_counts: 1497
+    id: 297
+    status: false
+    in_progress: false
+wassabi:
+  quest_1:
+    item_name: Тыквы
+    counts: 0
+    max_counts: 1699
+    id: 86
+    status: false
+    in_progress: false
+  quest_2:
+    item_name: Семена пшеницы
+    counts: 0
+    max_counts: 1944
+    id: 295
+    status: false
+    in_progress: false
+  quest_3:
+    item_name: Эндер Перлы
+    counts: 0
+    max_counts: 700
+    id: 368
+    status: false
+    in_progress: false
+  quest_4:
+    item_name: Золотое яблоко
+    counts: 0
+    max_counts: 1718
+    id: 322
+    status: false
+    in_progress: false
+  quest_5:
+    item_name: Нитки
+    counts: 0
+    max_counts: 713
+    id: 287
+    status: false
+    in_progress: false
+  quest_6:
+    item_name: Хлеб
+    counts: 0
+    max_counts: 1536
+    id: 297
+    status: false
+    in_progress: false
+  quest_7:
+    item_name: Уголь
+    counts: 0
+    max_counts: 765
+    id: 263
+    status: false
+    in_progress: false
+  quest_8:
+    item_name: Палки
+    counts: 0
+    max_counts: 1439
+    id: 280
+    status: false
+    in_progress: false
+  quest_9:
+    item_name: Алмазы
+    counts: 0
+    max_counts: 842
+    id: 264
+    status: false
+    in_progress: false
+  quest_10:
+    item_name: Железо
+    counts: 0
+    max_counts: 1568
+    id: 265
+    status: false
+    in_progress: false
+  quest_11:
+    item_name: Блок Снега
+    counts: 0
+    max_counts: 863
+    id: 80
+    status: false
+    in_progress: false
+  quest_12:
+    item_name: Дуб
+    counts: 0
+    max_counts: 849
+    id: 17
+    status: false
+    in_progress: false
+  quest_13:
+    item_name: Снежок
+    counts: 0
+    max_counts: 1165
+    id: 332
+    status: false
+    in_progress: false
+  quest_14:
+    item_name: Снопы сена
+    counts: 0
+    max_counts: 1776
+    id: 170
+    status: false
+    in_progress: false
+  quest_15:
+    item_name: Пустой пузырёк
+    counts: 0
+    max_counts: 1123
+    id: 374
+    status: false
+    in_progress: false
+  quest_16:
+    item_name: Пшеница
+    counts: 0
+    max_counts: 877
+    id: 296
+    status: false
+    in_progress: false
+  quest_17:
+    item_name: Ломтик арбуза
+    counts: 0
+    max_counts: 501
+    id: 360
+    status: false
+    in_progress: false
+  quest_18:
+    item_name: Булыжник
+    counts: 0
+    max_counts: 1309
+    id: 4
+    status: false
+    in_progress: false
+  quest_19:
+    item_name: Доски дуба
+    counts: 0
+    max_counts: 1000
+    id: 5
+    status: false
+    in_progress: false
+  quest_20:
+    item_name: Кварц
+    counts: 0
+    max_counts: 791
+    id: 406
+    status: false
+    in_progress: false
+"00001":
+  quest_1:
+    item_name: Морковь
+    counts: 0
+    max_counts: 759
+    id: 391
+    status: false
+    in_progress: true
+  quest_2:
+    item_name: Ломтик арбуза
+    counts: 0
+    max_counts: 1012
+    id: 360
+    status: false
+    in_progress: false
+  quest_3:
+    item_name: Хлеб
+    counts: 0
+    max_counts: 1160
+    id: 297
+    status: false
+    in_progress: false
+  quest_4:
+    item_name: Алмазы
+    counts: 0
+    max_counts: 1793
+    id: 264
+    status: false
+    in_progress: false
+  quest_5:
+    item_name: Снежок
+    counts: 0
+    max_counts: 983
+    id: 332
+    status: false
+    in_progress: false
+  quest_6:
+    item_name: Кварц
+    counts: 0
+    max_counts: 871
+    id: 406
+    status: false
+    in_progress: false
+  quest_7:
+    item_name: Булыжник
+    counts: 0
+    max_counts: 1843
+    id: 4
+    status: false
+    in_progress: false
+  quest_8:
+    item_name: Блок Снега
+    counts: 0
+    max_counts: 922
+    id: 80
+    status: false
+    in_progress: false
+  quest_9:
+    item_name: Нитки
+    counts: 0
+    max_counts: 1829
+    id: 287
+    status: false
+    in_progress: false
+  quest_10:
+    item_name: Дуб
+    counts: 0
+    max_counts: 1870
+    id: 17
+    status: false
+    in_progress: false
+  quest_11:
+    item_name: Семена пшеницы
+    counts: 0
+    max_counts: 1397
+    id: 295
+    status: false
+    in_progress: false
+  quest_12:
+    item_name: Тыквы
+    counts: 0
+    max_counts: 1601
+    id: 86
+    status: false
+    in_progress: false
+  quest_13:
+    item_name: Палки
+    counts: 0
+    max_counts: 764
+    id: 280
+    status: false
+    in_progress: false
+  quest_14:
+    item_name: Золотое яблоко
+    counts: 0
+    max_counts: 713
+    id: 322
+    status: false
+    in_progress: false
+  quest_15:
+    item_name: Эндер Перлы
+    counts: 0
+    max_counts: 1624
+    id: 368
+    status: false
+    in_progress: false
+  quest_16:
+    item_name: Уголь
+    counts: 0
+    max_counts: 1729
+    id: 263
+    status: false
+    in_progress: false
+  quest_17:
+    item_name: Доски дуба
+    counts: 0
+    max_counts: 1112
+    id: 5
+    status: false
+    in_progress: false
+  quest_18:
+    item_name: Пшеница
+    counts: 0
+    max_counts: 1267
+    id: 296
+    status: false
+    in_progress: false
+  quest_19:
+    item_name: Железо
+    counts: 0
+    max_counts: 1426
+    id: 265
+    status: false
+    in_progress: false
+  quest_20:
+    item_name: Пустой пузырёк
+    counts: 0
+    max_counts: 1065
+    id: 374
+    status: false
+    in_progress: false
+priora_v_dele:
+  quest_1:
+    item_name: Кварц
+    counts: 0
+    max_counts: 1702
+    id: 406
+    status: false
+    in_progress: false
+  quest_2:
+    item_name: Нитки
+    counts: 0
+    max_counts: 1414
+    id: 287
+    status: false
+    in_progress: false
+  quest_3:
+    item_name: Эндер Перлы
+    counts: 0
+    max_counts: 1085
+    id: 368
+    status: false
+    in_progress: false
+  quest_4:
+    item_name: Уголь
+    counts: 0
+    max_counts: 1326
+    id: 263
+    status: false
+    in_progress: false
+  quest_5:
+    item_name: Блок Снега
+    counts: 0
+    max_counts: 1051
+    id: 80
+    status: false
+    in_progress: false
+  quest_6:
+    item_name: Булыжник
+    counts: 0
+    max_counts: 1349
+    id: 4
+    status: false
+    in_progress: false
+  quest_7:
+    item_name: Тыквы
+    counts: 0
+    max_counts: 1423
+    id: 86
+    status: false
+    in_progress: false
+  quest_8:
+    item_name: Снопы сена
+    counts: 0
+    max_counts: 528
+    id: 170
+    status: false
+    in_progress: false
+  quest_9:
+    item_name: Алмазы
+    counts: 0
+    max_counts: 1034
+    id: 264
+    status: false
+    in_progress: false
+  quest_10:
+    item_name: Морковь
+    counts: 0
+    max_counts: 990
+    id: 391
+    status: false
+    in_progress: false
+  quest_11:
+    item_name: Снежок
+    counts: 0
+    max_counts: 803
+    id: 332
+    status: false
+    in_progress: false
+  quest_12:
+    item_name: Железо
+    counts: 0
+    max_counts: 1129
+    id: 265
+    status: false
+    in_progress: false
+  quest_13:
+    item_name: Хлеб
+    counts: 0
+    max_counts: 809
+    id: 297
+    status: false
+    in_progress: false
+  quest_14:
+    item_name: Пшеница
+    counts: 0
+    max_counts: 1293
+    id: 296
+    status: false
+    in_progress: false
+  quest_15:
+    item_name: Дуб
+    counts: 0
+    max_counts: 1654
+    id: 17
+    status: false
+    in_progress: false
+  quest_16:
+    item_name: Золотое яблоко
+    counts: 0
+    max_counts: 579
+    id: 322
+    status: false
+    in_progress: false
+  quest_17:
+    item_name: Пустой пузырёк
+    counts: 0
+    max_counts: 1201
+    id: 374
+    status: false
+    in_progress: false
+  quest_18:
+    item_name: Семена пшеницы
+    counts: 0
+    max_counts: 1605
+    id: 295
+    status: false
+    in_progress: false
+  quest_19:
+    item_name: Ломтик арбуза
+    counts: 0
+    max_counts: 678
+    id: 360
+    status: false
+    in_progress: false
+  quest_20:
+    item_name: Доски дуба
+    counts: 0
+    max_counts: 1711
+    id: 5
+    status: false
+    in_progress: false
+zzburntop4ikzz:
+  quest_1:
+    item_name: Тыквы
+    counts: 0
+    max_counts: 1728
+    id: 86
+    status: false
+    in_progress: false
+  quest_2:
+    item_name: Дуб
+    counts: 0
+    max_counts: 1205
+    id: 17
+    status: false
+    in_progress: false
+  quest_3:
+    item_name: Снежок
+    counts: 0
+    max_counts: 1549
+    id: 332
+    status: false
+    in_progress: false
+  quest_4:
+    item_name: Ломтик арбуза
+    counts: 0
+    max_counts: 597
+    id: 360
+    status: false
+    in_progress: false
+  quest_5:
+    item_name: Алмазы
+    counts: 0
+    max_counts: 1109
+    id: 264
+    status: false
+    in_progress: false
+  quest_6:
+    item_name: Блок Снега
+    counts: 0
+    max_counts: 999
+    id: 80
+    status: false
+    in_progress: false
+  quest_7:
+    item_name: Семена пшеницы
+    counts: 0
+    max_counts: 921
+    id: 295
+    status: false
+    in_progress: false
+  quest_8:
+    item_name: Уголь
+    counts: 0
+    max_counts: 794
+    id: 263
+    status: false
+    in_progress: false
+  quest_9:
+    item_name: Эндер Перлы
+    counts: 0
+    max_counts: 1982
+    id: 368
+    status: false
+    in_progress: false
+  quest_10:
+    item_name: Пустой пузырёк
+    counts: 0
+    max_counts: 606
+    id: 374
+    status: false
+    in_progress: false
+  quest_11:
+    item_name: Хлеб
+    counts: 0
+    max_counts: 1862
+    id: 297
+    status: false
+    in_progress: false
+  quest_12:
+    item_name: Снопы сена
+    counts: 0
+    max_counts: 504
+    id: 170
+    status: false
+    in_progress: false
+  quest_13:
+    item_name: Нитки
+    counts: 0
+    max_counts: 842
+    id: 287
+    status: false
+    in_progress: false
+  quest_14:
+    item_name: Кварц
+    counts: 0
+    max_counts: 1975
+    id: 406
+    status: false
+    in_progress: false
+  quest_15:
+    item_name: Морковь
+    counts: 0
+    max_counts: 1704
+    id: 391
+    status: false
+    in_progress: false
+  quest_16:
+    item_name: Золотое яблоко
+    counts: 0
+    max_counts: 965
+    id: 322
+    status: false
+    in_progress: false
+  quest_17:
+    item_name: Булыжник
+    counts: 0
+    max_counts: 1858
+    id: 4
+    status: false
+    in_progress: false
+  quest_18:
+    item_name: Пшеница
+    counts: 0
+    max_counts: 1541
+    id: 296
+    status: false
+    in_progress: false
+  quest_19:
+    item_name: Доски дуба
+    counts: 0
+    max_counts: 665
+    id: 5
+    status: false
+    in_progress: false
+  quest_20:
+    item_name: Железо
+    counts: 0
+    max_counts: 608
+    id: 265
+    status: false
+    in_progress: false
+mafioznik_yt_:
+  quest_1:
+    item_name: Тыквы
+    counts: 0
+    max_counts: 704
+    id: 86
+    status: false
+    in_progress: false
+  quest_2:
+    item_name: Уголь
+    counts: 0
+    max_counts: 604
+    id: 263
+    status: false
+    in_progress: false
+  quest_3:
+    item_name: Хлеб
+    counts: 0
+    max_counts: 833
+    id: 297
+    status: false
+    in_progress: false
+  quest_4:
+    item_name: Нитки
+    counts: 0
+    max_counts: 1284
+    id: 287
+    status: false
+    in_progress: false
+  quest_5:
+    item_name: Доски дуба
+    counts: 0
+    max_counts: 1628
+    id: 5
+    status: false
+    in_progress: false
+  quest_6:
+    item_name: Пшеница
+    counts: 0
+    max_counts: 856
+    id: 296
+    status: false
+    in_progress: false
+  quest_7:
+    item_name: Кварц
+    counts: 0
+    max_counts: 707
+    id: 406
+    status: false
+    in_progress: false
+  quest_8:
+    item_name: Морковь
+    counts: 0
+    max_counts: 1107
+    id: 391
+    status: false
+    in_progress: false
+  quest_9:
+    item_name: Блок Снега
+    counts: 0
+    max_counts: 1825
+    id: 80
+    status: false
+    in_progress: false
+  quest_10:
+    item_name: Снежок
+    counts: 0
+    max_counts: 1983
+    id: 332
+    status: false
+    in_progress: false
+  quest_11:
+    item_name: Пустой пузырёк
+    counts: 0
+    max_counts: 1117
+    id: 374
+    status: false
+    in_progress: false
+  quest_12:
+    item_name: Железо
+    counts: 0
+    max_counts: 1948
+    id: 265
+    status: false
+    in_progress: false
+  quest_13:
+    item_name: Дуб
+    counts: 0
+    max_counts: 1237
+    id: 17
+    status: false
+    in_progress: false
+  quest_14:
+    item_name: Ломтик арбуза
+    counts: 0
+    max_counts: 1587
+    id: 360
+    status: false
+    in_progress: false
+  quest_15:
+    item_name: Эндер Перлы
+    counts: 0
+    max_counts: 1616
+    id: 368
+    status: false
+    in_progress: false
+  quest_16:
+    item_name: Золотое яблоко
+    counts: 0
+    max_counts: 1940
+    id: 322
+    status: false
+    in_progress: false
+  quest_17:
+    item_name: Семена пшеницы
+    counts: 0
+    max_counts: 532
+    id: 295
+    status: false
+    in_progress: false
+  quest_18:
+    item_name: Палки
+    counts: 0
+    max_counts: 1247
+    id: 280
+    status: false
+    in_progress: false
+  quest_19:
+    item_name: Снопы сена
+    counts: 0
+    max_counts: 1620
+    id: 170
+    status: false
+    in_progress: false
+  quest_20:
+    item_name: Булыжник
+    counts: 0
+    max_counts: 1959
+    id: 4
+    status: false
+    in_progress: false
+byxou_limon__:
+  quest_1:
+    item_name: Кварц
+    counts: 0
+    max_counts: 1452
+    id: 406
+    status: false
+    in_progress: false
+  quest_2:
+    item_name: Морковь
+    counts: 0
+    max_counts: 1451
+    id: 391
+    status: false
+    in_progress: false
+  quest_3:
+    item_name: Семена пшеницы
+    counts: 0
+    max_counts: 1426
+    id: 295
+    status: false
+    in_progress: false
+  quest_4:
+    item_name: Блок Снега
+    counts: 0
+    max_counts: 1456
+    id: 80
+    status: false
+    in_progress: false
+  quest_5:
+    item_name: Пшеница
+    counts: 0
+    max_counts: 1352
+    id: 296
+    status: false
+    in_progress: false
+  quest_6:
+    item_name: Железо
+    counts: 0
+    max_counts: 1164
+    id: 265
+    status: false
+    in_progress: false
+  quest_7:
+    item_name: Алмазы
+    counts: 0
+    max_counts: 900
+    id: 264
+    status: false
+    in_progress: false
+  quest_8:
+    item_name: Золотое яблоко
+    counts: 0
+    max_counts: 1232
+    id: 322
+    status: false
+    in_progress: false
+  quest_9:
+    item_name: Пустой пузырёк
+    counts: 0
+    max_counts: 579
+    id: 374
+    status: false
+    in_progress: false
+  quest_10:
+    item_name: Тыквы
+    counts: 0
+    max_counts: 1408
+    id: 86
+    status: false
+    in_progress: false
+  quest_11:
+    item_name: Уголь
+    counts: 0
+    max_counts: 1436
+    id: 263
+    status: false
+    in_progress: false
+  quest_12:
+    item_name: Нитки
+    counts: 0
+    max_counts: 1425
+    id: 287
+    status: false
+    in_progress: false
+  quest_13:
+    item_name: Хлеб
+    counts: 0
+    max_counts: 698
+    id: 297
+    status: false
+    in_progress: false
+  quest_14:
+    item_name: Доски дуба
+    counts: 0
+    max_counts: 943
+    id: 5
+    status: false
+    in_progress: false
+  quest_15:
+    item_name: Снежок
+    counts: 0
+    max_counts: 1671
+    id: 332
+    status: false
+    in_progress: false
+  quest_16:
+    item_name: Дуб
+    counts: 0
+    max_counts: 665
+    id: 17
+    status: false
+    in_progress: false
+  quest_17:
+    item_name: Булыжник
+    counts: 0
+    max_counts: 836
+    id: 4
+    status: false
+    in_progress: false
+  quest_18:
+    item_name: Палки
+    counts: 0
+    max_counts: 547
+    id: 280
+    status: false
+    in_progress: false
+  quest_19:
+    item_name: Ломтик арбуза
+    counts: 0
+    max_counts: 1760
+    id: 360
+    status: false
+    in_progress: false
+  quest_20:
+    item_name: Эндер Перлы
+    counts: 0
+    max_counts: 1570
+    id: 368
+    status: false
+    in_progress: false
+pi4enicka_uwu:
+  quest_1:
+    item_name: Снежок
+    counts: 0
+    max_counts: 785
+    id: 332
+    status: false
+    in_progress: false
+  quest_2:
+    item_name: Тыквы
+    counts: 0
+    max_counts: 1330
+    id: 86
+    status: false
+    in_progress: false
+  quest_3:
+    item_name: Булыжник
+    counts: 0
+    max_counts: 921
+    id: 4
+    status: false
+    in_progress: false
+  quest_4:
+    item_name: Хлеб
+    counts: 0
+    max_counts: 1222
+    id: 297
+    status: false
+    in_progress: false
+  quest_5:
+    item_name: Дуб
+    counts: 0
+    max_counts: 1985
+    id: 17
+    status: false
+    in_progress: false
+  quest_6:
+    item_name: Нитки
+    counts: 0
+    max_counts: 1014
+    id: 287
+    status: false
+    in_progress: false
+  quest_7:
+    item_name: Морковь
+    counts: 0
+    max_counts: 1831
+    id: 391
+    status: false
+    in_progress: false
+  quest_8:
+    item_name: Снопы сена
+    counts: 0
+    max_counts: 959
+    id: 170
+    status: false
+    in_progress: false
+  quest_9:
+    item_name: Уголь
+    counts: 0
+    max_counts: 954
+    id: 263
+    status: false
+    in_progress: false
+  quest_10:
+    item_name: Палки
+    counts: 0
+    max_counts: 703
+    id: 280
+    status: false
+    in_progress: false
+  quest_11:
+    item_name: Алмазы
+    counts: 0
+    max_counts: 1878
+    id: 264
+    status: false
+    in_progress: false
+  quest_12:
+    item_name: Золотое яблоко
+    counts: 0
+    max_counts: 636
+    id: 322
+    status: false
+    in_progress: false
+  quest_13:
+    item_name: Пустой пузырёк
+    counts: 0
+    max_counts: 1676
+    id: 374
+    status: false
+    in_progress: false
+  quest_14:
+    item_name: Доски дуба
+    counts: 0
+    max_counts: 1106
+    id: 5
+    status: false
+    in_progress: false
+  quest_15:
+    item_name: Ломтик арбуза
+    counts: 0
+    max_counts: 1859
+    id: 360
+    status: false
+    in_progress: false
+  quest_16:
+    item_name: Железо
+    counts: 0
+    max_counts: 811
+    id: 265
+    status: false
+    in_progress: false
+  quest_17:
+    item_name: Блок Снега
+    counts: 0
+    max_counts: 622
+    id: 80
+    status: false
+    in_progress: false
+  quest_18:
+    item_name: Кварц
+    counts: 0
+    max_counts: 1160
+    id: 406
+    status: false
+    in_progress: false
+  quest_19:
+    item_name: Пшеница
+    counts: 0
+    max_counts: 511
+    id: 296
+    status: false
+    in_progress: false
+  quest_20:
+    item_name: Эндер Перлы
+    counts: 0
+    max_counts: 1693
+    id: 368
+    status: false
+    in_progress: false
+itcher:
+  quest_1:
+    item_name: Морковь
+    counts: 0
+    max_counts: 1673
+    id: 391
+    status: false
+    in_progress: false
+  quest_2:
+    item_name: Железо
+    counts: 0
+    max_counts: 1696
+    id: 265
+    status: false
+    in_progress: false
+  quest_3:
+    item_name: Доски дуба
+    counts: 0
+    max_counts: 797
+    id: 5
+    status: false
+    in_progress: false
+  quest_4:
+    item_name: Снежок
+    counts: 0
+    max_counts: 1939
+    id: 332
+    status: false
+    in_progress: false
+  quest_5:
+    item_name: Пшеница
+    counts: 0
+    max_counts: 696
+    id: 296
+    status: false
+    in_progress: false
+  quest_6:
+    item_name: Булыжник
+    counts: 0
+    max_counts: 1764
+    id: 4
+    status: false
+    in_progress: false
+  quest_7:
+    item_name: Ломтик арбуза
+    counts: 0
+    max_counts: 1749
+    id: 360
+    status: false
+    in_progress: false
+  quest_8:
+    item_name: Дуб
+    counts: 0
+    max_counts: 1143
+    id: 17
+    status: false
+    in_progress: false
+  quest_9:
+    item_name: Нитки
+    counts: 0
+    max_counts: 1205
+    id: 287
+    status: false
+    in_progress: false
+  quest_10:
+    item_name: Алмазы
+    counts: 0
+    max_counts: 583
+    id: 264
+    status: false
+    in_progress: false
+  quest_11:
+    item_name: Тыквы
+    counts: 0
+    max_counts: 1606
+    id: 86
+    status: false
+    in_progress: false
+  quest_12:
+    item_name: Уголь
+    counts: 0
+    max_counts: 881
+    id: 263
+    status: false
+    in_progress: false
+  quest_13:
+    item_name: Кварц
+    counts: 0
+    max_counts: 1667
+    id: 406
+    status: false
+    in_progress: false
+  quest_14:
+    item_name: Блок Снега
+    counts: 0
+    max_counts: 1623
+    id: 80
+    status: false
+    in_progress: false
+  quest_15:
+    item_name: Эндер Перлы
+    counts: 0
+    max_counts: 1475
+    id: 368
+    status: false
+    in_progress: false
+  quest_16:
+    item_name: Палки
+    counts: 0
+    max_counts: 717
+    id: 280
+    status: false
+    in_progress: false
+  quest_17:
+    item_name: Хлеб
+    counts: 0
+    max_counts: 1418
+    id: 297
+    status: false
+    in_progress: false
+  quest_18:
+    item_name: Семена пшеницы
+    counts: 0
+    max_counts: 1331
+    id: 295
+    status: false
+    in_progress: false
+  quest_19:
+    item_name: Снопы сена
+    counts: 0
+    max_counts: 984
+    id: 170
+    status: false
+    in_progress: false
+  quest_20:
+    item_name: Золотое яблоко
+    counts: 0
+    max_counts: 560
+    id: 322
+    status: false
+    in_progress: false
+xcera:
+  quest_1:
+    item_name: Алмазы
+    counts: 0
+    max_counts: 886
+    id: 264
+    status: false
+    in_progress: false
+  quest_2:
+    item_name: Блок Снега
+    counts: 0
+    max_counts: 1707
+    id: 80
+    status: false
+    in_progress: false
+  quest_3:
+    item_name: Эндер Перлы
+    counts: 0
+    max_counts: 777
+    id: 368
+    status: false
+    in_progress: false
+  quest_4:
+    item_name: Семена пшеницы
+    counts: 0
+    max_counts: 707
+    id: 295
+    status: false
+    in_progress: false
+  quest_5:
+    item_name: Уголь
+    counts: 0
+    max_counts: 743
+    id: 263
+    status: false
+    in_progress: false
+  quest_6:
+    item_name: Палки
+    counts: 0
+    max_counts: 779
+    id: 280
+    status: false
+    in_progress: false
+  quest_7:
+    item_name: Дуб
+    counts: 0
+    max_counts: 1459
+    id: 17
+    status: false
+    in_progress: false
+  quest_8:
+    item_name: Кварц
+    counts: 0
+    max_counts: 1911
+    id: 406
+    status: false
+    in_progress: false
+  quest_9:
+    item_name: Снежок
+    counts: 0
+    max_counts: 1143
+    id: 332
+    status: false
+    in_progress: false
+  quest_10:
+    item_name: Снопы сена
+    counts: 0
+    max_counts: 1290
+    id: 170
+    status: false
+    in_progress: false
+  quest_11:
+    item_name: Золотое яблоко
+    counts: 0
+    max_counts: 1599
+    id: 322
+    status: false
+    in_progress: false
+  quest_12:
+    item_name: Тыквы
+    counts: 0
+    max_counts: 1787
+    id: 86
+    status: false
+    in_progress: false
+  quest_13:
+    item_name: Хлеб
+    counts: 0
+    max_counts: 967
+    id: 297
+    status: false
+    in_progress: false
+  quest_14:
+    item_name: Булыжник
+    counts: 0
+    max_counts: 1547
+    id: 4
+    status: false
+    in_progress: false
+  quest_15:
+    item_name: Нитки
+    counts: 0
+    max_counts: 603
+    id: 287
+    status: false
+    in_progress: false
+  quest_16:
+    item_name: Железо
+    counts: 0
+    max_counts: 545
+    id: 265
+    status: false
+    in_progress: false
+  quest_17:
+    item_name: Пустой пузырёк
+    counts: 0
+    max_counts: 1043
+    id: 374
+    status: false
+    in_progress: false
+  quest_18:
+    item_name: Пшеница
+    counts: 0
+    max_counts: 1432
+    id: 296
+    status: false
+    in_progress: false
+  quest_19:
+    item_name: Доски дуба
+    counts: 0
+    max_counts: 1748
+    id: 5
+    status: false
+    in_progress: false
+  quest_20:
+    item_name: Ломтик арбуза
+    counts: 0
+    max_counts: 695
+    id: 360
+    status: false
+    in_progress: false
+phpmyadmin:
+  quest_1:
+    item_name: Морковь
+    counts: 0
+    max_counts: 1842
+    id: 391
+    status: false
+    in_progress: true
+  quest_2:
+    item_name: Пшеница
+    counts: 0
+    max_counts: 867
+    id: 296
+    status: false
+    in_progress: false
+  quest_3:
+    item_name: Железо
+    counts: 0
+    max_counts: 1907
+    id: 265
+    status: false
+    in_progress: false
+  quest_4:
+    item_name: Эндер Перлы
+    counts: 0
+    max_counts: 1358
+    id: 368
+    status: false
+    in_progress: false
+  quest_5:
+    item_name: Блок Снега
+    counts: 0
+    max_counts: 1547
+    id: 80
+    status: false
+    in_progress: false
+  quest_6:
+    item_name: Алмазы
+    counts: 0
+    max_counts: 723
+    id: 264
+    status: false
+    in_progress: false
+  quest_7:
+    item_name: Булыжник
+    counts: 0
+    max_counts: 1080
+    id: 4
+    status: false
+    in_progress: false
+  quest_8:
+    item_name: Тыквы
+    counts: 0
+    max_counts: 1368
+    id: 86
+    status: false
+    in_progress: false
+  quest_9:
+    item_name: Доски дуба
+    counts: 0
+    max_counts: 525
+    id: 5
+    status: false
+    in_progress: false
+  quest_10:
+    item_name: Снежок
+    counts: 0
+    max_counts: 1771
+    id: 332
+    status: false
+    in_progress: false
+  quest_11:
+    item_name: Хлеб
+    counts: 0
+    max_counts: 1332
+    id: 297
+    status: false
+    in_progress: false
+  quest_12:
+    item_name: Палки
+    counts: 0
+    max_counts: 1317
+    id: 280
+    status: false
+    in_progress: false
+  quest_13:
+    item_name: Кварц
+    counts: 0
+    max_counts: 1875
+    id: 406
+    status: false
+    in_progress: false
+  quest_14:
+    item_name: Золотое яблоко
+    counts: 0
+    max_counts: 710
+    id: 322
+    status: false
+    in_progress: false
+  quest_15:
+    item_name: Дуб
+    counts: 0
+    max_counts: 1254
+    id: 17
+    status: false
+    in_progress: false
+  quest_16:
+    item_name: Снопы сена
+    counts: 0
+    max_counts: 1639
+    id: 170
+    status: false
+    in_progress: false
+  quest_17:
+    item_name: Нитки
+    counts: 0
+    max_counts: 997
+    id: 287
+    status: false
+    in_progress: false
+  quest_18:
+    item_name: Уголь
+    counts: 0
+    max_counts: 1877
+    id: 263
+    status: false
+    in_progress: false
+  quest_19:
+    item_name: Ломтик арбуза
+    counts: 0
+    max_counts: 1207
+    id: 360
+    status: false
+    in_progress: false
+  quest_20:
+    item_name: Семена пшеницы
+    counts: 0
+    max_counts: 827
+    id: 295
+    status: false
+    in_progress: false
+kogottop:
+  quest_1:
+    item_name: Хлеб
+    counts: 0
+    max_counts: 522
+    id: 297
+    status: false
+    in_progress: false
+  quest_2:
+    item_name: Булыжник
+    counts: 0
+    max_counts: 608
+    id: 4
+    status: false
+    in_progress: false
+  quest_3:
+    item_name: Доски дуба
+    counts: 0
+    max_counts: 1309
+    id: 5
+    status: false
+    in_progress: false
+  quest_4:
+    item_name: Железо
+    counts: 0
+    max_counts: 1400
+    id: 265
+    status: false
+    in_progress: false
+  quest_5:
+    item_name: Дуб
+    counts: 0
+    max_counts: 613
+    id: 17
+    status: false
+    in_progress: false
+  quest_6:
+    item_name: Морковь
+    counts: 0
+    max_counts: 629
+    id: 391
+    status: false
+    in_progress: false
+  quest_7:
+    item_name: Ломтик арбуза
+    counts: 0
+    max_counts: 572
+    id: 360
+    status: false
+    in_progress: false
+  quest_8:
+    item_name: Алмазы
+    counts: 0
+    max_counts: 1972
+    id: 264
+    status: false
+    in_progress: false
+  quest_9:
+    item_name: Уголь
+    counts: 0
+    max_counts: 1506
+    id: 263
+    status: false
+    in_progress: false
+  quest_10:
+    item_name: Эндер Перлы
+    counts: 0
+    max_counts: 1741
+    id: 368
+    status: false
+    in_progress: false
+  quest_11:
+    item_name: Кварц
+    counts: 0
+    max_counts: 936
+    id: 406
+    status: false
+    in_progress: false
+  quest_12:
+    item_name: Тыквы
+    counts: 0
+    max_counts: 547
+    id: 86
+    status: false
+    in_progress: false
+  quest_13:
+    item_name: Золотое яблоко
+    counts: 0
+    max_counts: 1821
+    id: 322
+    status: false
+    in_progress: false
+  quest_14:
+    item_name: Снопы сена
+    counts: 0
+    max_counts: 889
+    id: 170
+    status: false
+    in_progress: false
+  quest_15:
+    item_name: Пшеница
+    counts: 0
+    max_counts: 1440
+    id: 296
+    status: false
+    in_progress: false
+  quest_16:
+    item_name: Палки
+    counts: 0
+    max_counts: 1017
+    id: 280
+    status: false
+    in_progress: false
+  quest_17:
+    item_name: Нитки
+    counts: 0
+    max_counts: 1765
+    id: 287
+    status: false
+    in_progress: false
+  quest_18:
+    item_name: Пустой пузырёк
+    counts: 0
+    max_counts: 1368
+    id: 374
+    status: false
+    in_progress: false
+  quest_19:
+    item_name: Снежок
+    counts: 0
+    max_counts: 1823
+    id: 332
+    status: false
+    in_progress: false
+  quest_20:
+    item_name: Блок Снега
+    counts: 0
+    max_counts: 1756
+    id: 80
+    status: false
+    in_progress: false
+mafioznik_yt:
+  quest_1:
+    item_name: Тыквы
+    counts: 0
+    max_counts: 1422
+    id: 86
+    status: false
+    in_progress: false
+  quest_2:
+    item_name: Золотое яблоко
+    counts: 0
+    max_counts: 944
+    id: 322
+    status: false
+    in_progress: false
+  quest_3:
+    item_name: Нитки
+    counts: 0
+    max_counts: 995
+    id: 287
+    status: false
+    in_progress: false
+  quest_4:
+    item_name: Снежок
+    counts: 0
+    max_counts: 1186
+    id: 332
+    status: false
+    in_progress: false
+  quest_5:
+    item_name: Булыжник
+    counts: 0
+    max_counts: 1172
+    id: 4
+    status: false
+    in_progress: false
+  quest_6:
+    item_name: Семена пшеницы
+    counts: 0
+    max_counts: 741
+    id: 295
+    status: false
+    in_progress: false
+  quest_7:
+    item_name: Эндер Перлы
+    counts: 0
+    max_counts: 1224
+    id: 368
+    status: false
+    in_progress: false
+  quest_8:
+    item_name: Морковь
+    counts: 0
+    max_counts: 1971
+    id: 391
+    status: false
+    in_progress: false
+  quest_9:
+    item_name: Пустой пузырёк
+    counts: 0
+    max_counts: 960
+    id: 374
+    status: false
+    in_progress: false
+  quest_10:
+    item_name: Уголь
+    counts: 0
+    max_counts: 1517
+    id: 263
+    status: false
+    in_progress: false
+  quest_11:
+    item_name: Ломтик арбуза
+    counts: 0
+    max_counts: 1066
+    id: 360
+    status: false
+    in_progress: false
+  quest_12:
+    item_name: Дуб
+    counts: 0
+    max_counts: 1766
+    id: 17
+    status: false
+    in_progress: false
+  quest_13:
+    item_name: Железо
+    counts: 0
+    max_counts: 827
+    id: 265
+    status: false
+    in_progress: false
+  quest_14:
+    item_name: Кварц
+    counts: 0
+    max_counts: 1946
+    id: 406
+    status: false
+    in_progress: false
+  quest_15:
+    item_name: Пшеница
+    counts: 0
+    max_counts: 849
+    id: 296
+    status: false
+    in_progress: false
+  quest_16:
+    item_name: Палки
+    counts: 0
+    max_counts: 1251
+    id: 280
+    status: false
+    in_progress: false
+  quest_17:
+    item_name: Доски дуба
+    counts: 0
+    max_counts: 1156
+    id: 5
+    status: false
+    in_progress: false
+  quest_18:
+    item_name: Алмазы
+    counts: 0
+    max_counts: 1106
+    id: 264
+    status: false
+    in_progress: false
+  quest_19:
+    item_name: Снопы сена
+    counts: 0
+    max_counts: 1852
+    id: 170
+    status: false
+    in_progress: false
+  quest_20:
+    item_name: Хлеб
+    counts: 0
+    max_counts: 965
+    id: 297
+    status: false
+    in_progress: false
+dima_00000000000:
+  quest_1:
+    item_name: Золотое яблоко
+    counts: 0
+    max_counts: 701
+    id: 322
+    status: false
+    in_progress: false
+  quest_2:
+    item_name: Палки
+    counts: 0
+    max_counts: 912
+    id: 280
+    status: false
+    in_progress: false
+  quest_3:
+    item_name: Ломтик арбуза
+    counts: 0
+    max_counts: 1591
+    id: 360
+    status: false
+    in_progress: false
+  quest_4:
+    item_name: Булыжник
+    counts: 0
+    max_counts: 1887
+    id: 4
+    status: false
+    in_progress: false
+  quest_5:
+    item_name: Снежок
+    counts: 0
+    max_counts: 1124
+    id: 332
+    status: false
+    in_progress: false
+  quest_6:
+    item_name: Блок Снега
+    counts: 0
+    max_counts: 1683
+    id: 80
+    status: false
+    in_progress: false
+  quest_7:
+    item_name: Эндер Перлы
+    counts: 0
+    max_counts: 680
+    id: 368
+    status: false
+    in_progress: false
+  quest_8:
+    item_name: Алмазы
+    counts: 0
+    max_counts: 928
+    id: 264
+    status: false
+    in_progress: false
+  quest_9:
+    item_name: Семена пшеницы
+    counts: 0
+    max_counts: 634
+    id: 295
+    status: false
+    in_progress: false
+  quest_10:
+    item_name: Доски дуба
+    counts: 0
+    max_counts: 1459
+    id: 5
+    status: false
+    in_progress: false
+  quest_11:
+    item_name: Хлеб
+    counts: 0
+    max_counts: 891
+    id: 297
+    status: false
+    in_progress: false
+  quest_12:
+    item_name: Снопы сена
+    counts: 0
+    max_counts: 1608
+    id: 170
+    status: false
+    in_progress: false
+  quest_13:
+    item_name: Железо
+    counts: 0
+    max_counts: 1477
+    id: 265
+    status: false
+    in_progress: false
+  quest_14:
+    item_name: Тыквы
+    counts: 0
+    max_counts: 728
+    id: 86
+    status: false
+    in_progress: false
+  quest_15:
+    item_name: Пшеница
+    counts: 0
+    max_counts: 1225
+    id: 296
+    status: false
+    in_progress: false
+  quest_16:
+    item_name: Дуб
+    counts: 0
+    max_counts: 1676
+    id: 17
+    status: false
+    in_progress: false
+  quest_17:
+    item_name: Кварц
+    counts: 0
+    max_counts: 670
+    id: 406
+    status: false
+    in_progress: false
+  quest_18:
+    item_name: Пустой пузырёк
+    counts: 0
+    max_counts: 664
+    id: 374
+    status: false
+    in_progress: false
+  quest_19:
+    item_name: Уголь
+    counts: 0
+    max_counts: 1934
+    id: 263
+    status: false
+    in_progress: false
+  quest_20:
+    item_name: Морковь
+    counts: 0
+    max_counts: 965
+    id: 391
+    status: false
+    in_progress: false
+takemichiezz:
+  quest_1:
+    item_name: Алмазы
+    counts: 0
+    max_counts: 1274
+    id: 264
+    status: false
+    in_progress: false
+  quest_2:
+    item_name: Золотое яблоко
+    counts: 0
+    max_counts: 1123
+    id: 322
+    status: false
+    in_progress: false
+  quest_3:
+    item_name: Блок Снега
+    counts: 0
+    max_counts: 1640
+    id: 80
+    status: false
+    in_progress: false
+  quest_4:
+    item_name: Булыжник
+    counts: 0
+    max_counts: 1152
+    id: 4
+    status: false
+    in_progress: false
+  quest_5:
+    item_name: Уголь
+    counts: 0
+    max_counts: 868
+    id: 263
+    status: false
+    in_progress: false
+  quest_6:
+    item_name: Кварц
+    counts: 0
+    max_counts: 708
+    id: 406
+    status: false
+    in_progress: false
+  quest_7:
+    item_name: Эндер Перлы
+    counts: 0
+    max_counts: 1494
+    id: 368
+    status: false
+    in_progress: false
+  quest_8:
+    item_name: Доски дуба
+    counts: 0
+    max_counts: 1368
+    id: 5
+    status: false
+    in_progress: false
+  quest_9:
+    item_name: Нитки
+    counts: 0
+    max_counts: 1294
+    id: 287
+    status: false
+    in_progress: false
+  quest_10:
+    item_name: Пустой пузырёк
+    counts: 0
+    max_counts: 1485
+    id: 374
+    status: false
+    in_progress: false
+  quest_11:
+    item_name: Хлеб
+    counts: 0
+    max_counts: 1359
+    id: 297
+    status: false
+    in_progress: false
+  quest_12:
+    item_name: Пшеница
+    counts: 0
+    max_counts: 1787
+    id: 296
+    status: false
+    in_progress: false
+  quest_13:
+    item_name: Морковь
+    counts: 0
+    max_counts: 558
+    id: 391
+    status: false
+    in_progress: false
+  quest_14:
+    item_name: Дуб
+    counts: 0
+    max_counts: 860
+    id: 17
+    status: false
+    in_progress: false
+  quest_15:
+    item_name: Тыквы
+    counts: 0
+    max_counts: 1897
+    id: 86
+    status: false
+    in_progress: false
+  quest_16:
+    item_name: Снежок
+    counts: 0
+    max_counts: 1535
+    id: 332
+    status: false
+    in_progress: false
+  quest_17:
+    item_name: Железо
+    counts: 0
+    max_counts: 1520
+    id: 265
+    status: false
+    in_progress: false
+  quest_18:
+    item_name: Ломтик арбуза
+    counts: 0
+    max_counts: 1945
+    id: 360
+    status: false
+    in_progress: false
+  quest_19:
+    item_name: Семена пшеницы
+    counts: 0
+    max_counts: 913
+    id: 295
+    status: false
+    in_progress: false
+  quest_20:
+    item_name: Палки
+    counts: 0
+    max_counts: 541
+    id: 280
+    status: false
+    in_progress: false
+lexizz:
+  quest_1:
+    item_name: Тыквы
+    counts: 0
+    max_counts: 1363
+    id: 86
+    status: false
+    in_progress: false
+  quest_2:
+    item_name: Палки
+    counts: 0
+    max_counts: 696
+    id: 280
+    status: false
+    in_progress: false
+  quest_3:
+    item_name: Хлеб
+    counts: 0
+    max_counts: 749
+    id: 297
+    status: false
+    in_progress: false
+  quest_4:
+    item_name: Семена пшеницы
+    counts: 0
+    max_counts: 1556
+    id: 295
+    status: false
+    in_progress: false
+  quest_5:
+    item_name: Золотое яблоко
+    counts: 0
+    max_counts: 583
+    id: 322
+    status: false
+    in_progress: false
+  quest_6:
+    item_name: Снопы сена
+    counts: 0
+    max_counts: 1525
+    id: 170
+    status: false
+    in_progress: false
+  quest_7:
+    item_name: Доски дуба
+    counts: 0
+    max_counts: 908
+    id: 5
+    status: false
+    in_progress: false
+  quest_8:
+    item_name: Нитки
+    counts: 0
+    max_counts: 1471
+    id: 287
+    status: false
+    in_progress: false
+  quest_9:
+    item_name: Уголь
+    counts: 0
+    max_counts: 862
+    id: 263
+    status: false
+    in_progress: false
+  quest_10:
+    item_name: Ломтик арбуза
+    counts: 0
+    max_counts: 1796
+    id: 360
+    status: false
+    in_progress: false
+  quest_11:
+    item_name: Пустой пузырёк
+    counts: 0
+    max_counts: 980
+    id: 374
+    status: false
+    in_progress: false
+  quest_12:
+    item_name: Пшеница
+    counts: 0
+    max_counts: 1008
+    id: 296
+    status: false
+    in_progress: false
+  quest_13:
+    item_name: Алмазы
+    counts: 0
+    max_counts: 1799
+    id: 264
+    status: false
+    in_progress: false
+  quest_14:
+    item_name: Дуб
+    counts: 0
+    max_counts: 1353
+    id: 17
+    status: false
+    in_progress: false
+  quest_15:
+    item_name: Кварц
+    counts: 0
+    max_counts: 1645
+    id: 406
+    status: false
+    in_progress: false
+  quest_16:
+    item_name: Снежок
+    counts: 0
+    max_counts: 1261
+    id: 332
+    status: false
+    in_progress: false
+  quest_17:
+    item_name: Блок Снега
+    counts: 0
+    max_counts: 1791
+    id: 80
+    status: false
+    in_progress: false
+  quest_18:
+    item_name: Булыжник
+    counts: 0
+    max_counts: 1234
+    id: 4
+    status: false
+    in_progress: false
+  quest_19:
+    item_name: Железо
+    counts: 0
+    max_counts: 1259
+    id: 265
+    status: false
+    in_progress: false
+  quest_20:
+    item_name: Морковь
+    counts: 0
+    max_counts: 1641
+    id: 391
+    status: false
+    in_progress: false
+men_goi_llll:
+  quest_1:
+    item_name: Тыквы
+    counts: 0
+    max_counts: 1210
+    id: 86
+    status: false
+    in_progress: false
+  quest_2:
+    item_name: Хлеб
+    counts: 0
+    max_counts: 926
+    id: 297
+    status: false
+    in_progress: false
+  quest_3:
+    item_name: Снежок
+    counts: 0
+    max_counts: 592
+    id: 332
+    status: false
+    in_progress: false
+  quest_4:
+    item_name: Алмазы
+    counts: 0
+    max_counts: 860
+    id: 264
+    status: false
+    in_progress: false
+  quest_5:
+    item_name: Семена пшеницы
+    counts: 0
+    max_counts: 1569
+    id: 295
+    status: false
+    in_progress: false
+  quest_6:
+    item_name: Ломтик арбуза
+    counts: 0
+    max_counts: 1516
+    id: 360
+    status: false
+    in_progress: false
+  quest_7:
+    item_name: Эндер Перлы
+    counts: 0
+    max_counts: 1670
+    id: 368
+    status: false
+    in_progress: false
+  quest_8:
+    item_name: Дуб
+    counts: 0
+    max_counts: 1898
+    id: 17
+    status: false
+    in_progress: false
+  quest_9:
+    item_name: Уголь
+    counts: 0
+    max_counts: 726
+    id: 263
+    status: false
+    in_progress: false
+  quest_10:
+    item_name: Нитки
+    counts: 0
+    max_counts: 1342
+    id: 287
+    status: false
+    in_progress: false
+  quest_11:
+    item_name: Железо
+    counts: 0
+    max_counts: 1355
+    id: 265
+    status: false
+    in_progress: false
+  quest_12:
+    item_name: Булыжник
+    counts: 0
+    max_counts: 573
+    id: 4
+    status: false
+    in_progress: false
+  quest_13:
+    item_name: Доски дуба
+    counts: 0
+    max_counts: 501
+    id: 5
+    status: false
+    in_progress: false
+  quest_14:
+    item_name: Блок Снега
+    counts: 0
+    max_counts: 1731
+    id: 80
+    status: false
+    in_progress: false
+  quest_15:
+    item_name: Палки
+    counts: 0
+    max_counts: 878
+    id: 280
+    status: false
+    in_progress: false
+  quest_16:
+    item_name: Кварц
+    counts: 0
+    max_counts: 820
+    id: 406
+    status: false
+    in_progress: false
+  quest_17:
+    item_name: Снопы сена
+    counts: 0
+    max_counts: 1005
+    id: 170
+    status: false
+    in_progress: false
+  quest_18:
+    item_name: Морковь
+    counts: 0
+    max_counts: 667
+    id: 391
+    status: false
+    in_progress: false
+  quest_19:
+    item_name: Пшеница
+    counts: 0
+    max_counts: 584
+    id: 296
+    status: false
+    in_progress: false
+  quest_20:
+    item_name: Золотое яблоко
+    counts: 0
+    max_counts: 1214
+    id: 322
+    status: false
+    in_progress: false
+timoha:
+  quest_1:
+    item_name: Морковь
+    counts: 0
+    max_counts: 1737
+    id: 391
+    status: false
+    in_progress: false
+  quest_2:
+    item_name: Кварц
+    counts: 0
+    max_counts: 1890
+    id: 406
+    status: false
+    in_progress: false
+  quest_3:
+    item_name: Булыжник
+    counts: 0
+    max_counts: 784
+    id: 4
+    status: false
+    in_progress: false
+  quest_4:
+    item_name: Пшеница
+    counts: 0
+    max_counts: 1155
+    id: 296
+    status: false
+    in_progress: false
+  quest_5:
+    item_name: Золотое яблоко
+    counts: 0
+    max_counts: 1518
+    id: 322
+    status: false
+    in_progress: false
+  quest_6:
+    item_name: Семена пшеницы
+    counts: 0
+    max_counts: 1927
+    id: 295
+    status: false
+    in_progress: false
+  quest_7:
+    item_name: Уголь
+    counts: 0
+    max_counts: 995
+    id: 263
+    status: false
+    in_progress: false
+  quest_8:
+    item_name: Эндер Перлы
+    counts: 0
+    max_counts: 830
+    id: 368
+    status: false
+    in_progress: false
+  quest_9:
+    item_name: Ломтик арбуза
+    counts: 0
+    max_counts: 667
+    id: 360
+    status: false
+    in_progress: false
+  quest_10:
+    item_name: Железо
+    counts: 0
+    max_counts: 1833
+    id: 265
+    status: false
+    in_progress: false
+  quest_11:
+    item_name: Снопы сена
+    counts: 0
+    max_counts: 1098
+    id: 170
+    status: false
+    in_progress: false
+  quest_12:
+    item_name: Алмазы
+    counts: 0
+    max_counts: 1400
+    id: 264
+    status: false
+    in_progress: false
+  quest_13:
+    item_name: Нитки
+    counts: 0
+    max_counts: 1498
+    id: 287
+    status: false
+    in_progress: false
+  quest_14:
+    item_name: Блок Снега
+    counts: 0
+    max_counts: 1357
+    id: 80
+    status: false
+    in_progress: false
+  quest_15:
+    item_name: Снежок
+    counts: 0
+    max_counts: 1841
+    id: 332
+    status: false
+    in_progress: false
+  quest_16:
+    item_name: Пустой пузырёк
+    counts: 0
+    max_counts: 1293
+    id: 374
+    status: false
+    in_progress: false
+  quest_17:
+    item_name: Доски дуба
+    counts: 0
+    max_counts: 1270
+    id: 5
+    status: false
+    in_progress: false
+  quest_18:
+    item_name: Хлеб
+    counts: 0
+    max_counts: 1010
+    id: 297
+    status: false
+    in_progress: false
+  quest_19:
+    item_name: Палки
+    counts: 0
+    max_counts: 1598
+    id: 280
+    status: false
+    in_progress: false
+  quest_20:
+    item_name: Дуб
+    counts: 0
+    max_counts: 1010
+    id: 17
+    status: false
+    in_progress: false
+goldon456:
+  quest_1:
+    item_name: Пустой пузырёк
+    counts: 0
+    max_counts: 1931
+    id: 374
+    status: false
+    in_progress: false
+  quest_2:
+    item_name: Железо
+    counts: 0
+    max_counts: 1985
+    id: 265
+    status: false
+    in_progress: false
+  quest_3:
+    item_name: Снопы сена
+    counts: 0
+    max_counts: 1888
+    id: 170
+    status: false
+    in_progress: false
+  quest_4:
+    item_name: Булыжник
+    counts: 0
+    max_counts: 664
+    id: 4
+    status: false
+    in_progress: false
+  quest_5:
+    item_name: Алмазы
+    counts: 0
+    max_counts: 1458
+    id: 264
+    status: false
+    in_progress: false
+  quest_6:
+    item_name: Морковь
+    counts: 0
+    max_counts: 1997
+    id: 391
+    status: false
+    in_progress: false
+  quest_7:
+    item_name: Блок Снега
+    counts: 0
+    max_counts: 1590
+    id: 80
+    status: false
+    in_progress: false
+  quest_8:
+    item_name: Палки
+    counts: 0
+    max_counts: 750
+    id: 280
+    status: false
+    in_progress: false
+  quest_9:
+    item_name: Ломтик арбуза
+    counts: 0
+    max_counts: 975
+    id: 360
+    status: false
+    in_progress: false
+  quest_10:
+    item_name: Снежок
+    counts: 0
+    max_counts: 1460
+    id: 332
+    status: false
+    in_progress: false
+  quest_11:
+    item_name: Тыквы
+    counts: 0
+    max_counts: 1578
+    id: 86
+    status: false
+    in_progress: false
+  quest_12:
+    item_name: Доски дуба
+    counts: 0
+    max_counts: 1138
+    id: 5
+    status: false
+    in_progress: false
+  quest_13:
+    item_name: Кварц
+    counts: 0
+    max_counts: 913
+    id: 406
+    status: false
+    in_progress: false
+  quest_14:
+    item_name: Эндер Перлы
+    counts: 0
+    max_counts: 1484
+    id: 368
+    status: false
+    in_progress: false
+  quest_15:
+    item_name: Семена пшеницы
+    counts: 0
+    max_counts: 1744
+    id: 295
+    status: false
+    in_progress: false
+  quest_16:
+    item_name: Пшеница
+    counts: 0
+    max_counts: 1963
+    id: 296
+    status: false
+    in_progress: false
+  quest_17:
+    item_name: Уголь
+    counts: 0
+    max_counts: 1158
+    id: 263
+    status: false
+    in_progress: false
+  quest_18:
+    item_name: Дуб
+    counts: 0
+    max_counts: 919
+    id: 17
+    status: false
+    in_progress: false
+  quest_19:
+    item_name: Нитки
+    counts: 0
+    max_counts: 1755
+    id: 287
+    status: false
+    in_progress: false
+  quest_20:
+    item_name: Хлеб
+    counts: 0
+    max_counts: 731
+    id: 297
+    status: false
+    in_progress: false
+viper_ser:
+  quest_1:
+    item_name: Пустой пузырёк
+    counts: 0
+    max_counts: 1828
+    id: 374
+    status: false
+    in_progress: true
+  quest_2:
+    item_name: Дуб
+    counts: 0
+    max_counts: 1353
+    id: 17
+    status: false
+    in_progress: false
+  quest_3:
+    item_name: Снежок
+    counts: 0
+    max_counts: 1520
+    id: 332
+    status: false
+    in_progress: false
+  quest_4:
+    item_name: Кварц
+    counts: 0
+    max_counts: 1248
+    id: 406
+    status: false
+    in_progress: false
+  quest_5:
+    item_name: Уголь
+    counts: 0
+    max_counts: 1471
+    id: 263
+    status: false
+    in_progress: false
+  quest_6:
+    item_name: Доски дуба
+    counts: 0
+    max_counts: 944
+    id: 5
+    status: false
+    in_progress: false
+  quest_7:
+    item_name: Тыквы
+    counts: 0
+    max_counts: 1624
+    id: 86
+    status: false
+    in_progress: false
+  quest_8:
+    item_name: Железо
+    counts: 0
+    max_counts: 1530
+    id: 265
+    status: false
+    in_progress: false
+  quest_9:
+    item_name: Снопы сена
+    counts: 0
+    max_counts: 543
+    id: 170
+    status: false
+    in_progress: false
+  quest_10:
+    item_name: Палки
+    counts: 0
+    max_counts: 1479
+    id: 280
+    status: false
+    in_progress: false
+  quest_11:
+    item_name: Блок Снега
+    counts: 0
+    max_counts: 597
+    id: 80
+    status: false
+    in_progress: false
+  quest_12:
+    item_name: Алмазы
+    counts: 0
+    max_counts: 951
+    id: 264
+    status: false
+    in_progress: false
+  quest_13:
+    item_name: Эндер Перлы
+    counts: 0
+    max_counts: 1923
+    id: 368
+    status: false
+    in_progress: false
+  quest_14:
+    item_name: Ломтик арбуза
+    counts: 0
+    max_counts: 545
+    id: 360
+    status: false
+    in_progress: false
+  quest_15:
+    item_name: Семена пшеницы
+    counts: 0
+    max_counts: 1494
+    id: 295
+    status: false
+    in_progress: false
+  quest_16:
+    item_name: Нитки
+    counts: 0
+    max_counts: 1916
+    id: 287
+    status: false
+    in_progress: false
+  quest_17:
+    item_name: Хлеб
+    counts: 0
+    max_counts: 1950
+    id: 297
+    status: false
+    in_progress: false
+  quest_18:
+    item_name: Булыжник
+    counts: 0
+    max_counts: 1506
+    id: 4
+    status: false
+    in_progress: false
+  quest_19:
+    item_name: Золотое яблоко
+    counts: 0
+    max_counts: 1366
+    id: 322
+    status: false
+    in_progress: false
+  quest_20:
+    item_name: Пшеница
+    counts: 0
+    max_counts: 1871
+    id: 296
+    status: false
+    in_progress: false
+lyleni5112:
+  quest_1:
+    item_name: Снежок
+    counts: 0
+    max_counts: 659
+    id: 332
+    status: false
+    in_progress: false
+  quest_2:
+    item_name: Палки
+    counts: 0
+    max_counts: 899
+    id: 280
+    status: false
+    in_progress: false
+  quest_3:
+    item_name: Хлеб
+    counts: 0
+    max_counts: 1229
+    id: 297
+    status: false
+    in_progress: false
+  quest_4:
+    item_name: Пшеница
+    counts: 0
+    max_counts: 1349
+    id: 296
+    status: false
+    in_progress: false
+  quest_5:
+    item_name: Алмазы
+    counts: 0
+    max_counts: 1498
+    id: 264
+    status: false
+    in_progress: false
+  quest_6:
+    item_name: Блок Снега
+    counts: 0
+    max_counts: 590
+    id: 80
+    status: false
+    in_progress: false
+  quest_7:
+    item_name: Пустой пузырёк
+    counts: 0
+    max_counts: 626
+    id: 374
+    status: false
+    in_progress: false
+  quest_8:
+    item_name: Тыквы
+    counts: 0
+    max_counts: 706
+    id: 86
+    status: false
+    in_progress: false
+  quest_9:
+    item_name: Кварц
+    counts: 0
+    max_counts: 916
+    id: 406
+    status: false
+    in_progress: false
+  quest_10:
+    item_name: Булыжник
+    counts: 0
+    max_counts: 860
+    id: 4
+    status: false
+    in_progress: false
+  quest_11:
+    item_name: Золотое яблоко
+    counts: 0
+    max_counts: 1232
+    id: 322
+    status: false
+    in_progress: false
+  quest_12:
+    item_name: Эндер Перлы
+    counts: 0
+    max_counts: 1053
+    id: 368
+    status: false
+    in_progress: false
+  quest_13:
+    item_name: Дуб
+    counts: 0
+    max_counts: 1439
+    id: 17
+    status: false
+    in_progress: false
+  quest_14:
+    item_name: Нитки
+    counts: 0
+    max_counts: 1329
+    id: 287
+    status: false
+    in_progress: false
+  quest_15:
+    item_name: Морковь
+    counts: 0
+    max_counts: 1592
+    id: 391
+    status: false
+    in_progress: false
+  quest_16:
+    item_name: Семена пшеницы
+    counts: 0
+    max_counts: 1566
+    id: 295
+    status: false
+    in_progress: false
+  quest_17:
+    item_name: Ломтик арбуза
+    counts: 0
+    max_counts: 616
+    id: 360
+    status: false
+    in_progress: false
+  quest_18:
+    item_name: Уголь
+    counts: 0
+    max_counts: 1960
+    id: 263
+    status: false
+    in_progress: false
+  quest_19:
+    item_name: Снопы сена
+    counts: 0
+    max_counts: 988
+    id: 170
+    status: false
+    in_progress: false
+  quest_20:
+    item_name: Доски дуба
+    counts: 0
+    max_counts: 1443
+    id: 5
+    status: false
+    in_progress: false
+kakajan2015:
+  quest_1:
+    item_name: Золотое яблоко
+    counts: 0
+    max_counts: 967
+    id: 322
+    status: false
+    in_progress: true
+  quest_2:
+    item_name: Эндер Перлы
+    counts: 0
+    max_counts: 1640
+    id: 368
+    status: false
+    in_progress: false
+  quest_3:
+    item_name: Палки
+    counts: 0
+    max_counts: 1791
+    id: 280
+    status: false
+    in_progress: false
+  quest_4:
+    item_name: Морковь
+    counts: 0
+    max_counts: 1102
+    id: 391
+    status: false
+    in_progress: false
+  quest_5:
+    item_name: Пшеница
+    counts: 0
+    max_counts: 1641
+    id: 296
+    status: false
+    in_progress: false
+  quest_6:
+    item_name: Алмазы
+    counts: 0
+    max_counts: 1449
+    id: 264
+    status: false
+    in_progress: false
+  quest_7:
+    item_name: Тыквы
+    counts: 0
+    max_counts: 731
+    id: 86
+    status: false
+    in_progress: false
+  quest_8:
+    item_name: Доски дуба
+    counts: 0
+    max_counts: 1209
+    id: 5
+    status: false
+    in_progress: false
+  quest_9:
+    item_name: Железо
+    counts: 0
+    max_counts: 1203
+    id: 265
+    status: false
+    in_progress: false
+  quest_10:
+    item_name: Булыжник
+    counts: 0
+    max_counts: 1820
+    id: 4
+    status: false
+    in_progress: false
+  quest_11:
+    item_name: Хлеб
+    counts: 0
+    max_counts: 1153
+    id: 297
+    status: false
+    in_progress: false
+  quest_12:
+    item_name: Пустой пузырёк
+    counts: 0
+    max_counts: 1030
+    id: 374
+    status: false
+    in_progress: false
+  quest_13:
+    item_name: Блок Снега
+    counts: 0
+    max_counts: 737
+    id: 80
+    status: false
+    in_progress: false
+  quest_14:
+    item_name: Ломтик арбуза
+    counts: 0
+    max_counts: 762
+    id: 360
+    status: false
+    in_progress: false
+  quest_15:
+    item_name: Снопы сена
+    counts: 0
+    max_counts: 1927
+    id: 170
+    status: false
+    in_progress: false
+  quest_16:
+    item_name: Семена пшеницы
+    counts: 0
+    max_counts: 1196
+    id: 295
+    status: false
+    in_progress: false
+  quest_17:
+    item_name: Снежок
+    counts: 0
+    max_counts: 1239
+    id: 332
+    status: false
+    in_progress: false
+  quest_18:
+    item_name: Уголь
+    counts: 0
+    max_counts: 547
+    id: 263
+    status: false
+    in_progress: false
+  quest_19:
+    item_name: Кварц
+    counts: 0
+    max_counts: 1384
+    id: 406
+    status: false
+    in_progress: false
+  quest_20:
+    item_name: Дуб
+    counts: 0
+    max_counts: 664
+    id: 17
+    status: false
+    in_progress: false
+kopmen734:
+  quest_1:
+    item_name: Доски дуба
+    counts: 0
+    max_counts: 629
+    id: 5
+    status: false
+    in_progress: false
+  quest_2:
+    item_name: Дуб
+    counts: 0
+    max_counts: 1336
+    id: 17
+    status: false
+    in_progress: false
+  quest_3:
+    item_name: Морковь
+    counts: 0
+    max_counts: 1780
+    id: 391
+    status: false
+    in_progress: false
+  quest_4:
+    item_name: Эндер Перлы
+    counts: 0
+    max_counts: 1082
+    id: 368
+    status: false
+    in_progress: false
+  quest_5:
+    item_name: Блок Снега
+    counts: 0
+    max_counts: 1590
+    id: 80
+    status: false
+    in_progress: false
+  quest_6:
+    item_name: Булыжник
+    counts: 0
+    max_counts: 1085
+    id: 4
+    status: false
+    in_progress: false
+  quest_7:
+    item_name: Палки
+    counts: 0
+    max_counts: 835
+    id: 280
+    status: false
+    in_progress: false
+  quest_8:
+    item_name: Тыквы
+    counts: 0
+    max_counts: 842
+    id: 86
+    status: false
+    in_progress: false
+  quest_9:
+    item_name: Семена пшеницы
+    counts: 0
+    max_counts: 1884
+    id: 295
+    status: false
+    in_progress: false
+  quest_10:
+    item_name: Алмазы
+    counts: 0
+    max_counts: 580
+    id: 264
+    status: false
+    in_progress: false
+  quest_11:
+    item_name: Пустой пузырёк
+    counts: 0
+    max_counts: 1925
+    id: 374
+    status: false
+    in_progress: false
+  quest_12:
+    item_name: Пшеница
+    counts: 0
+    max_counts: 1801
+    id: 296
+    status: false
+    in_progress: false
+  quest_13:
+    item_name: Снопы сена
+    counts: 0
+    max_counts: 1005
+    id: 170
+    status: false
+    in_progress: false
+  quest_14:
+    item_name: Кварц
+    counts: 0
+    max_counts: 1283
+    id: 406
+    status: false
+    in_progress: false
+  quest_15:
+    item_name: Ломтик арбуза
+    counts: 0
+    max_counts: 977
+    id: 360
+    status: false
+    in_progress: false
+  quest_16:
+    item_name: Нитки
+    counts: 0
+    max_counts: 1055
+    id: 287
+    status: false
+    in_progress: false
+  quest_17:
+    item_name: Снежок
+    counts: 0
+    max_counts: 1943
+    id: 332
+    status: false
+    in_progress: false
+  quest_18:
+    item_name: Хлеб
+    counts: 0
+    max_counts: 1393
+    id: 297
+    status: false
+    in_progress: false
+  quest_19:
+    item_name: Уголь
+    counts: 0
+    max_counts: 976
+    id: 263
+    status: false
+    in_progress: false
+  quest_20:
+    item_name: Железо
+    counts: 0
+    max_counts: 1561
+    id: 265
+    status: false
+    in_progress: false
+destik:
+  quest_1:
+    item_name: Снежок
+    counts: 0
+    max_counts: 1033
+    id: 332
+    status: false
+    in_progress: true
+  quest_2:
+    item_name: Морковь
+    counts: 0
+    max_counts: 1826
+    id: 391
+    status: false
+    in_progress: false
+  quest_3:
+    item_name: Хлеб
+    counts: 0
+    max_counts: 709
+    id: 297
+    status: false
+    in_progress: false
+  quest_4:
+    item_name: Булыжник
+    counts: 0
+    max_counts: 506
+    id: 4
+    status: false
+    in_progress: false
+  quest_5:
+    item_name: Нитки
+    counts: 0
+    max_counts: 856
+    id: 287
+    status: false
+    in_progress: false
+  quest_6:
+    item_name: Ломтик арбуза
+    counts: 0
+    max_counts: 749
+    id: 360
+    status: false
+    in_progress: false
+  quest_7:
+    item_name: Алмазы
+    counts: 0
+    max_counts: 520
+    id: 264
+    status: false
+    in_progress: false
+  quest_8:
+    item_name: Уголь
+    counts: 0
+    max_counts: 1778
+    id: 263
+    status: false
+    in_progress: false
+  quest_9:
+    item_name: Пустой пузырёк
+    counts: 0
+    max_counts: 666
+    id: 374
+    status: false
+    in_progress: false
+  quest_10:
+    item_name: Эндер Перлы
+    counts: 0
+    max_counts: 1840
+    id: 368
+    status: false
+    in_progress: false
+  quest_11:
+    item_name: Палки
+    counts: 0
+    max_counts: 1448
+    id: 280
+    status: false
+    in_progress: false
+  quest_12:
+    item_name: Дуб
+    counts: 0
+    max_counts: 1729
+    id: 17
+    status: false
+    in_progress: false
+  quest_13:
+    item_name: Тыквы
+    counts: 0
+    max_counts: 1728
+    id: 86
+    status: false
+    in_progress: false
+  quest_14:
+    item_name: Золотое яблоко
+    counts: 0
+    max_counts: 1263
+    id: 322
+    status: false
+    in_progress: false
+  quest_15:
+    item_name: Семена пшеницы
+    counts: 0
+    max_counts: 1851
+    id: 295
+    status: false
+    in_progress: false
+  quest_16:
+    item_name: Железо
+    counts: 0
+    max_counts: 1379
+    id: 265
+    status: false
+    in_progress: false
+  quest_17:
+    item_name: Блок Снега
+    counts: 0
+    max_counts: 1963
+    id: 80
+    status: false
+    in_progress: false
+  quest_18:
+    item_name: Доски дуба
+    counts: 0
+    max_counts: 1970
+    id: 5
+    status: false
+    in_progress: false
+  quest_19:
+    item_name: Снопы сена
+    counts: 0
+    max_counts: 518
+    id: 170
+    status: false
+    in_progress: false
+  quest_20:
+    item_name: Кварц
+    counts: 0
+    max_counts: 761
+    id: 406
+    status: false
+    in_progress: false
+fant1z0vv:
+  quest_1:
+    item_name: Палки
+    counts: 0
+    max_counts: 1734
+    id: 280
+    status: false
+    in_progress: false
+  quest_2:
+    item_name: Железо
+    counts: 0
+    max_counts: 1466
+    id: 265
+    status: false
+    in_progress: false
+  quest_3:
+    item_name: Дуб
+    counts: 0
+    max_counts: 1486
+    id: 17
+    status: false
+    in_progress: false
+  quest_4:
+    item_name: Пшеница
+    counts: 0
+    max_counts: 1873
+    id: 296
+    status: false
+    in_progress: false
+  quest_5:
+    item_name: Морковь
+    counts: 0
+    max_counts: 583
+    id: 391
+    status: false
+    in_progress: false
+  quest_6:
+    item_name: Доски дуба
+    counts: 0
+    max_counts: 1061
+    id: 5
+    status: false
+    in_progress: false
+  quest_7:
+    item_name: Хлеб
+    counts: 0
+    max_counts: 1128
+    id: 297
+    status: false
+    in_progress: false
+  quest_8:
+    item_name: Кварц
+    counts: 0
+    max_counts: 547
+    id: 406
+    status: false
+    in_progress: false
+  quest_9:
+    item_name: Нитки
+    counts: 0
+    max_counts: 1641
+    id: 287
+    status: false
+    in_progress: false
+  quest_10:
+    item_name: Семена пшеницы
+    counts: 0
+    max_counts: 1826
+    id: 295
+    status: false
+    in_progress: false
+  quest_11:
+    item_name: Пустой пузырёк
+    counts: 0
+    max_counts: 814
+    id: 374
+    status: false
+    in_progress: false
+  quest_12:
+    item_name: Ломтик арбуза
+    counts: 0
+    max_counts: 1136
+    id: 360
+    status: false
+    in_progress: false
+  quest_13:
+    item_name: Эндер Перлы
+    counts: 0
+    max_counts: 1542
+    id: 368
+    status: false
+    in_progress: false
+  quest_14:
+    item_name: Золотое яблоко
+    counts: 0
+    max_counts: 863
+    id: 322
+    status: false
+    in_progress: false
+  quest_15:
+    item_name: Снопы сена
+    counts: 0
+    max_counts: 1899
+    id: 170
+    status: false
+    in_progress: false
+  quest_16:
+    item_name: Булыжник
+    counts: 0
+    max_counts: 1610
+    id: 4
+    status: false
+    in_progress: false
+  quest_17:
+    item_name: Блок Снега
+    counts: 0
+    max_counts: 966
+    id: 80
+    status: false
+    in_progress: false
+  quest_18:
+    item_name: Алмазы
+    counts: 0
+    max_counts: 1150
+    id: 264
+    status: false
+    in_progress: false
+  quest_19:
+    item_name: Уголь
+    counts: 0
+    max_counts: 906
+    id: 263
+    status: false
+    in_progress: false
+  quest_20:
+    item_name: Снежок
+    counts: 0
+    max_counts: 1809
+    id: 332
+    status: false
+    in_progress: false
+deyson4ik12:
+  quest_1:
+    item_name: Тыквы
+    counts: 0
+    max_counts: 1035
+    id: 86
+    status: false
+    in_progress: false
+  quest_2:
+    item_name: Семена пшеницы
+    counts: 0
+    max_counts: 999
+    id: 295
+    status: false
+    in_progress: false
+  quest_3:
+    item_name: Хлеб
+    counts: 0
+    max_counts: 606
+    id: 297
+    status: false
+    in_progress: false
+  quest_4:
+    item_name: Снежок
+    counts: 0
+    max_counts: 934
+    id: 332
+    status: false
+    in_progress: false
+  quest_5:
+    item_name: Уголь
+    counts: 0
+    max_counts: 773
+    id: 263
+    status: false
+    in_progress: false
+  quest_6:
+    item_name: Доски дуба
+    counts: 0
+    max_counts: 1905
+    id: 5
+    status: false
+    in_progress: false
+  quest_7:
+    item_name: Булыжник
+    counts: 0
+    max_counts: 1485
+    id: 4
+    status: false
+    in_progress: false
+  quest_8:
+    item_name: Железо
+    counts: 0
+    max_counts: 1266
+    id: 265
+    status: false
+    in_progress: false
+  quest_9:
+    item_name: Морковь
+    counts: 0
+    max_counts: 1465
+    id: 391
+    status: false
+    in_progress: false
+  quest_10:
+    item_name: Блок Снега
+    counts: 0
+    max_counts: 649
+    id: 80
+    status: false
+    in_progress: false
+  quest_11:
+    item_name: Пустой пузырёк
+    counts: 0
+    max_counts: 906
+    id: 374
+    status: false
+    in_progress: false
+  quest_12:
+    item_name: Алмазы
+    counts: 0
+    max_counts: 1011
+    id: 264
+    status: false
+    in_progress: false
+  quest_13:
+    item_name: Пшеница
+    counts: 0
+    max_counts: 1409
+    id: 296
+    status: false
+    in_progress: false
+  quest_14:
+    item_name: Нитки
+    counts: 0
+    max_counts: 1834
+    id: 287
+    status: false
+    in_progress: false
+  quest_15:
+    item_name: Ломтик арбуза
+    counts: 0
+    max_counts: 823
+    id: 360
+    status: false
+    in_progress: false
+  quest_16:
+    item_name: Дуб
+    counts: 0
+    max_counts: 1541
+    id: 17
+    status: false
+    in_progress: false
+  quest_17:
+    item_name: Палки
+    counts: 0
+    max_counts: 968
+    id: 280
+    status: false
+    in_progress: false
+  quest_18:
+    item_name: Снопы сена
+    counts: 0
+    max_counts: 1338
+    id: 170
+    status: false
+    in_progress: false
+  quest_19:
+    item_name: Кварц
+    counts: 0
+    max_counts: 868
+    id: 406
+    status: false
+    in_progress: false
+  quest_20:
+    item_name: Золотое яблоко
+    counts: 0
+    max_counts: 948
+    id: 322
+    status: false
+    in_progress: false
+gmaildev:
+  quest_1:
+    item_name: Пшеница
+    counts: 0
+    max_counts: 1430
+    id: 296
+    status: false
+    in_progress: false
+  quest_2:
+    item_name: Уголь
+    counts: 0
+    max_counts: 1163
+    id: 263
+    status: false
+    in_progress: false
+  quest_3:
+    item_name: Алмазы
+    counts: 0
+    max_counts: 1055
+    id: 264
+    status: false
+    in_progress: false
+  quest_4:
+    item_name: Золотое яблоко
+    counts: 0
+    max_counts: 688
+    id: 322
+    status: false
+    in_progress: false
+  quest_5:
+    item_name: Доски дуба
+    counts: 0
+    max_counts: 634
+    id: 5
+    status: false
+    in_progress: false
+  quest_6:
+    item_name: Эндер Перлы
+    counts: 0
+    max_counts: 742
+    id: 368
+    status: false
+    in_progress: false
+  quest_7:
+    item_name: Палки
+    counts: 0
+    max_counts: 640
+    id: 280
+    status: false
+    in_progress: false
+  quest_8:
+    item_name: Хлеб
+    counts: 0
+    max_counts: 779
+    id: 297
+    status: false
+    in_progress: false
+  quest_9:
+    item_name: Ломтик арбуза
+    counts: 0
+    max_counts: 1068
+    id: 360
+    status: false
+    in_progress: false
+  quest_10:
+    item_name: Кварц
+    counts: 0
+    max_counts: 1515
+    id: 406
+    status: false
+    in_progress: false
+  quest_11:
+    item_name: Снежок
+    counts: 0
+    max_counts: 1841
+    id: 332
+    status: false
+    in_progress: false
+  quest_12:
+    item_name: Пустой пузырёк
+    counts: 0
+    max_counts: 1417
+    id: 374
+    status: false
+    in_progress: false
+  quest_13:
+    item_name: Блок Снега
+    counts: 0
+    max_counts: 1945
+    id: 80
+    status: false
+    in_progress: false
+  quest_14:
+    item_name: Нитки
+    counts: 0
+    max_counts: 1020
+    id: 287
+    status: false
+    in_progress: false
+  quest_15:
+    item_name: Булыжник
+    counts: 0
+    max_counts: 1193
+    id: 4
+    status: false
+    in_progress: false
+  quest_16:
+    item_name: Тыквы
+    counts: 0
+    max_counts: 852
+    id: 86
+    status: false
+    in_progress: false
+  quest_17:
+    item_name: Морковь
+    counts: 0
+    max_counts: 823
+    id: 391
+    status: false
+    in_progress: false
+  quest_18:
+    item_name: Снопы сена
+    counts: 0
+    max_counts: 1060
+    id: 170
+    status: false
+    in_progress: false
+  quest_19:
+    item_name: Железо
+    counts: 0
+    max_counts: 835
+    id: 265
+    status: false
+    in_progress: false
+  quest_20:
+    item_name: Семена пшеницы
+    counts: 0
+    max_counts: 1007
+    id: 295
+    status: false
+    in_progress: false
+...
